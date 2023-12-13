@@ -1,0 +1,23 @@
+{
+  "name": "oca_web_validator",
+  "version": "1.0.0",
+  "description": "Web based Data Entry Excel Validator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Steven-Mugisha/OCA_WEB_VALIDATOR.git"
+  },
+  "author": "Steven Mugisha Mizero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Steven-Mugisha/OCA_WEB_VALIDATOR/issues"
+  },
+  "homepage": "https://github.com/Steven-Mugisha/OCA_WEB_VALIDATOR#readme",
+  "dependencies": {
+    "handsontable": "^14.0.0"
+  },
+  "type": "module"
+}
