@@ -1,15 +1,4 @@
-import e from "express";
-import OCADataSet from "../lib/utils/files.js";
-import { OCADataSetErr } from "../lib/validator.js";
-import { OCABundle } from "../lib/validator.js";
-
-// describe("OCADataSet", () => {
-//   it("should return dataset in json format for an excel spreadsheet", async () => {
-//     const dataset = await OCADataSet.readExcel(`${__dirname}/datasets/data_entry.xlsx`);
-//     console.log(dataset);
-//     expect(dataset).toBeInstanceOf(Object);
-//   });
-// });
+import OCABundle from "../lib/validator.js";
 
 describe("OCABundle", () => {
   it("should return a json object for a bundle file.", async () => {
