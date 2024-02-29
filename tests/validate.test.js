@@ -74,7 +74,11 @@ describe("OCABundle", () => {
         await bundle.loadedBundle(`${__dirname}/datasets/oca_bundle.json`);
         const dataset = await OCADataSet.readExcel(`${__dirname}/datasets/err_data_entry.xlsx`);
         const validate = bundle.validate(dataset);
-        // console.log(validate);
+        // console.logvalidate);
+        // console.log(validate.getErrCol("Age"));
+        // console.log(validate.formatErr);
+        // console.log(validate.missingAttrs);
+        // console.log(validate.unmachedAttrs);
         expect(validate).toBeInstanceOf(Object);
     });
-})
+});
