@@ -1,4 +1,4 @@
-import OCADataSetErr from '../lib/utils/Err';
+import OCADataSetErr from '../lib/utils/Err.js';
 import OCADataSet from '../lib/utils/files';
 import OCABundle from '../lib/validator.js';
 import path from 'path';
@@ -7,7 +7,11 @@ describe('OCABundle', () => {
     it('should return OCADataSetErr object with all errors corrected.', async () => {
         const bundle = new OCABundle();
         await bundle.loadedBundle(path.join(__dirname, 'datasets', 'oca_bundle.json'));
-        const dataset = await OCADataSet.readExcel(path.join(__dirname, 'datasets', 'data_entry.xlsx'));
+        // Tesing xls data entry file.
+        const dataset = await OCADataSet.readExcel(path.join(__dirname, 'datasets', 'err1_data_entry.xlsx'));
+        /// Testing csv data entry file.
+        // const dataset = await OCADataSet.readCSV(path.join(__dirname, 'datasets', 'err2_data_entry.csv'));
+
         const validate = bundle.validate(dataset);
         console.log(validate);
 
