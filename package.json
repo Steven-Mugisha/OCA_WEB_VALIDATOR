@@ -5,8 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "jest",
-    "dev": "nodemon src/index.js"
+    "test": "jest  tests/"
   },
   "repository": {
     "type": "git",
@@ -23,10 +22,17 @@
   },
   "homepage": "https://github.com/Steven-Mugisha/OCA_WEB_VALIDATOR#readme",
   "devDependencies": {
-    "@babel/preset-env": "^7.23.9",
+    "@babel/core": "^7.24.0",
+    "@babel/preset-env": "^7.24.0",
     "babel-jest": "^29.7.0",
-    "jest": "^29.7.0",
-    "nodemon": "^3.0.3"
+    "chai": "^5.1.0",
+    "eslint": "^8.57.0",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-jest": "^27.9.0",
+    "eslint-plugin-n": "^16.6.2",
+    "eslint-plugin-promise": "^6.1.1",
+    "jest": "^29.7.0"
   },
   "dependencies": {
     "csv-parser": "^3.0.0",
@@ -37,5 +43,13 @@
     "papaparse": "^5.4.1",
     "uuid": "^9.0.1",
     "xlsx": "^0.18.5"
+  },
+  "jest": {
+    "transform": {
+      "^.+\\.jsx?$": "babel-jest"
+    },
+    "transformIgnorePatterns": [
+      "/node_modules/(?!chai)/"
+    ]
   }
 }
