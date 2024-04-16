@@ -6,10 +6,15 @@ import path from 'path';
 describe('OCABundle', () => {
     it('should return OCADataSetErr object with all errors corrected.', async () => {
         const bundle = new OCABundle();
-        await bundle.loadedBundle(path.join(__dirname, 'datasets', 'oca_bundle.json'));
+        // await bundle.loadedBundle(path.join(__dirname, 'datasets', 'oca_bundle.json'));
+
+        // Testing zip bundle file.
+        // console.log(bundle.readZip(path.join(__dirname, 'datasets', 'test1_zip.zip')));
+        await bundle.loadedBundle(path.join(__dirname, 'datasets', 'test1_zip.zip'));
+
         // Tesing xls data entry file.
-        const dataset = await OCADataSet.readExcel(path.join(__dirname, 'datasets', 'err1_data_entry.xlsx'));
-        /// Testing csv data entry file.
+        const dataset = await OCADataSet.readExcel(path.join(__dirname, 'datasets', 'test1_zip.xlsx'));
+        // Testing csv data entry file.
         // const dataset = await OCADataSet.readCSV(path.join(__dirname, 'datasets', 'err2_data_entry.csv'));
 
         const validate = bundle.validate(dataset);
