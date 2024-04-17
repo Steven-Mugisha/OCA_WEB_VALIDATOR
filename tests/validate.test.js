@@ -18,7 +18,7 @@ describe('OCABundle', () => {
         // const dataset = await OCADataSet.readCSV(path.join(__dirname, 'datasets', 'err2_data_entry.csv'));
 
         const validate = bundle.validate(dataset);
-        console.log(validate);
+        console.log(validate.errCollection);
 
         /**
          *   OCADataSetErr {
