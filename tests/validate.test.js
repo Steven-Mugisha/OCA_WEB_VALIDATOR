@@ -6,19 +6,18 @@ import path from 'path';
 describe('OCABundle', () => {
     it('should return OCADataSetErr object with all errors corrected.', async () => {
         const bundle = new OCABundle();
-        // await bundle.loadedBundle(path.join(__dirname, 'datasets', 'oca_bundle.json'));
-
-        // Testing zip bundle file.
-        // console.log(bundle.readZip(path.join(__dirname, 'datasets', 'test1_zip.zip')));
-        await bundle.loadedBundle(path.join(__dirname, 'datasets', 'test1_zip.zip'));
+        await bundle.loadedBundle(path.join(__dirname, 'datasets', 'oca_bundle.json'));
 
         // Tesing xls data entry file.
-        const dataset = await OCADataSet.readExcel(path.join(__dirname, 'datasets', 'test1_zip.xlsx'));
+        const dataset = await OCADataSet.readExcel(path.join(__dirname, 'datasets', 'data_entry.xlsx'));
         // Testing csv data entry file.
         // const dataset = await OCADataSet.readCSV(path.join(__dirname, 'datasets', 'err2_data_entry.csv'));
 
         const validate = bundle.validate(dataset);
-        console.log(validate);
+        // console.log(validate);
+        console.log(validate.errCollection);
+        // console.log(validate.errCollectionclear);
+        // console.log(validate.characterEcodeErr);
 
         /**
          *   OCADataSetErr {
@@ -50,7 +49,7 @@ describe('OCABundle', () => {
                     Breed: 'One of the entry codes required. Entry codes allowed: [B,S]',
                     Glucose: 'Format mismatch. Supported format: [A-Z0-9]{9}.'
                     }
-                }
+                }`
             }
          */
 
