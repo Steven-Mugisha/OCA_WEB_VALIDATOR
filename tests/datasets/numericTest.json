@@ -1,0 +1,52 @@
+{
+  "bundle": {
+    "d": "EEY7Amx2L_v2w5FfYMl-HLxIM6ipN2TuZv2MLMtwV3qB",
+    "capture_base": {
+      "d": "EC999LAvbTS-Iz0R94OK-IdecKNR9cT2kguASCobZIK7",
+      "type": "spec/capture_base/1.0",
+      "classification": "RDF201",
+      "attributes": {
+        "numeric1": "Numeric",
+        "numeric2": "Numeric",
+        "numeric3": "Numeric",
+        "numeric4": "Numeric",
+        "numeric5": "Numeric"
+      },
+      "flagged_attributes": []
+    },
+    "overlays": {
+      "character_encoding": {
+        "d": "EOF5Y8wGf_VuFhqT3aEvO5g4-eIggjUs_k98b64qCbtF",
+        "type": "spec/overlays/character_encoding/1.0",
+        "capture_base": "EC999LAvbTS-Iz0R94OK-IdecKNR9cT2kguASCobZIK7",
+        "attribute_character_encoding": {
+          "numeric1": "utf-8",
+          "numeric2": "utf-8",
+          "numeric3": "utf-8",
+          "numeric4": "utf-8",
+          "numeric5": "utf-8"
+        }
+      },
+      "format": {
+        "d": "EP5-2d286yp52N9gNWP1tky1-203X2KtNxO8rx659zqD",
+        "type": "spec/overlays/format/1.0",
+        "capture_base": "EC999LAvbTS-Iz0R94OK-IdecKNR9cT2kguASCobZIK7",
+        "attribute_formats": {
+          "numeric4": "^-?[0-9]+$",
+          "numeric5": "^[-+]?\\d*\\.?\\d+$"
+        }
+      },
+      "meta": [
+        {
+          "d": "EI2w7UFCfEX1HTlLDReH5psAdWtGNAmOxRsOhdqnBSr3",
+          "language": "eng",
+          "type": "spec/overlays/meta/1.0",
+          "capture_base": "EC999LAvbTS-Iz0R94OK-IdecKNR9cT2kguASCobZIK7",
+          "description": "Testing numeric",
+          "name": "numeric test"
+        }
+      ]
+    }
+  },
+  "dependencies": []
+}
