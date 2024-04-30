@@ -7,17 +7,14 @@ describe('OCABundle', () => {
     it('should return OCADataSetErr object with all errors corrected.', async () => {
         const bundle = new OCABundle();
         await bundle.loadedBundle(path.join(__dirname, 'datasets', 'oca_bundle.json'));
-
         // Tesing xls data entry file.
         const dataset = await OCADataSet.readExcel(path.join(__dirname, 'datasets', 'data_entry.xlsx'));
+        // await dataset.loadDataset(path.join(__dirname, 'datasets', 'data_entry.xlsx'));
         // Testing csv data entry file.
-        // const dataset = await OCADataSet.readCSV(path.join(__dirname, 'datasets', 'err2_data_entry.csv'));
-
+        // const dataset = await OCADataSet.readCSV(path.join(__dirname, 'datasets', 'data_set.csv'));
         const validate = bundle.validate(dataset);
-        // console.log(validate);
-        console.log(validate.errCollection);
-        // console.log(validate.errCollectionclear);
-        // console.log(validate.characterEcodeErr);
+        console.log(validate.errCollection['0']);
+        // console.log(bundle);
 
         /**
          *   OCADataSetErr {
@@ -52,7 +49,6 @@ describe('OCABundle', () => {
                 }`
             }
          */
-
         expect(validate).toBeInstanceOf(OCADataSetErr);
     });
 });
