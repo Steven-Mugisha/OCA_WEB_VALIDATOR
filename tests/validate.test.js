@@ -6,14 +6,13 @@ import path from 'path';
 describe('OCABundle', () => {
     it('should return OCADataSetErr object with all errors corrected.', async () => {
         const bundle = new OCABundle();
-        await bundle.loadedBundle(path.join(__dirname, 'datasets', 'oca_bundle.json'));
+        await bundle.loadedBundle(path.join(__dirname, 'datasets', 'numericTest.json'));
         // Tesing xls data entry file.
-        const dataset = await OCADataSet.readExcel(path.join(__dirname, 'datasets', 'err1_data_entry.xlsx'));
-        /// Testing csv data entry file.
-        // const dataset = await OCADataSet.readCSV(path.join(__dirname, 'datasets', 'err2_data_entry.csv'));
-
+        const dataset = await OCADataSet.readExcel(path.join(__dirname, 'datasets', 'numericTest.xlsx'));
+        // Testing csv data entry file.
+        // const dataset = await OCADataSet.readCSV(path.join(__dirname, 'datasets', 'dateTest.csv'));
         const validate = bundle.validate(dataset);
-        console.log(validate);
+        console.log(validate.errCollection);
 
         /**
          *   OCADataSetErr {
@@ -45,10 +44,9 @@ describe('OCABundle', () => {
                     Breed: 'One of the entry codes required. Entry codes allowed: [B,S]',
                     Glucose: 'Format mismatch. Supported format: [A-Z0-9]{9}.'
                     }
-                }
+                }`
             }
          */
-
         expect(validate).toBeInstanceOf(OCADataSetErr);
     });
 });

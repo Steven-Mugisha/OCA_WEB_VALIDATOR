@@ -1,0 +1,103 @@
+{
+  "bundle": {
+    "d": "EDwiC_XP_r-YFxakupYYbHz5eOM5rG6JotKX-l0-6Ucj",
+    "capture_base": {
+      "d": "EMKTfeGLyhyBggOGz_w1RGjIIOvoyeYm56AgNIlGYffu",
+      "type": "spec/capture_base/1.0",
+      "classification": "RDF212",
+      "attributes": {
+        "dataTest11": "DateTime",
+        "dateTest1": "DateTime",
+        "dateTest10": "DateTime",
+        "dateTest12": "DateTime",
+        "dateTest13": "DateTime",
+        "dateTest14": "DateTime",
+        "dateTest15": "DateTime",
+        "dateTest16": "DateTime",
+        "dateTest17": "DateTime",
+        "dateTest18": "DateTime",
+        "dateTest19": "DateTime",
+        "dateTest2": "DateTime",
+        "dateTest20": "DateTime",
+        "dateTest21": "DateTime",
+        "dateTest22": "DateTime",
+        "dateTest3": "DateTime",
+        "dateTest4": "DateTime",
+        "dateTest5": "DateTime",
+        "dateTest6": "DateTime",
+        "dateTest8": "DateTime",
+        "dateTest9": "DateTime"
+      },
+      "flagged_attributes": []
+    },
+    "overlays": {
+      "character_encoding": {
+        "d": "EBJyVS-1_QKAG8zJEbaGvf8vLlUcY-kQ23TUvtcgGATQ",
+        "type": "spec/overlays/character_encoding/1.0",
+        "capture_base": "EMKTfeGLyhyBggOGz_w1RGjIIOvoyeYm56AgNIlGYffu",
+        "attribute_character_encoding": {
+          "dataTest11": "utf-8",
+          "dateTest1": "utf-8",
+          "dateTest10": "utf-8",
+          "dateTest12": "utf-8",
+          "dateTest13": "utf-8",
+          "dateTest14": "utf-8",
+          "dateTest15": "utf-8",
+          "dateTest16": "utf-8",
+          "dateTest17": "utf-8",
+          "dateTest18": "utf-8",
+          "dateTest19": "utf-8",
+          "dateTest2": "utf-8",
+          "dateTest20": "utf-8",
+          "dateTest21": "utf-8",
+          "dateTest22": "utf-8",
+          "dateTest3": "utf-8",
+          "dateTest4": "utf-8",
+          "dateTest5": "utf-8",
+          "dateTest6": "utf-8",
+          "dateTest8": "utf-8",
+          "dateTest9": "utf-8"
+        }
+      },
+      "format": {
+        "d": "ENS-kXv3ef9DV_Ug_WyBcH7AC2peZTrEBedczdStWKgq",
+        "type": "spec/overlays/format/1.0",
+        "capture_base": "EMKTfeGLyhyBggOGz_w1RGjIIOvoyeYm56AgNIlGYffu",
+        "attribute_formats": {
+          "dataTest11": "^(0[1-9]|[1-2][0-9]|3[01])$",
+          "dateTest1": "^(?:(?:19|20)\\d{2})-(?:0[1-9]|1[0-2])-(?:0[1-9]|[1-2]\\d|3[0-1])$",
+          "dateTest10": "^(0[1-9]|1[0-2])$",
+          "dateTest12": "^(?:\\d{4})-(?:0[1-9]|1[0-2])-(?:0[1-9]|[1-2][0-9]|3[01])T(?:[01][0-9]|2[0-3]):(?:[0-5][0-9]):(?:[0-5][0-9])Z$",
+          "dateTest13": "^(?:\\d{4})-(?:0[1-9]|1[0-2])-(?:0[1-9]|[1-2][0-9]|3[01])T(?:[01][0-9]|2[0-3]):(?:[0-5][0-9]):(?:[0-5][0-9])(?:+-:[0-5][0-9])$",
+          "dateTest14": "^P\\d+D$",
+          "dateTest15": "^PT(?:\\d{1,2}H)?(?:\\d{2}M)?$",
+          "dateTest16": "(0[1-9]|[12][0-9]|3[01])\\/(0[1-9]|1[0,2])\\/(19|20)\\d{2}$",
+          "dateTest17": "^(0[1-9]|[12][0-9]|3[01])\\/(0[1-9]|1[0-2])\\\\d{2}$",
+          "dateTest18": "^(0[1-9]|1[0-2])\\/(0[1-9]|[12][0-9]|3[01])\\/(19|20)\\d{2}$",
+          "dateTest19": "^(0[1-9]|[12]\\d|3[01])(0[1-9]|1[0-2])(19|20)\\d{2}$",
+          "dateTest2": "^(?:(?:19|20)[0-9]{2})(?:0[1-9]|1[012])(?:0[1-9]|[12][0-9]|3[01])$",
+          "dateTest20": "^(0[1-9]|1[0-2])(0[1-9]|[12]\\d|3[01])(19|20)\\d{2}$",
+          "dateTest21": "^(19|20)\\d{2}(0[1-9]|1[0-2])(0[1-9]|[12]\\d|3[01])$",
+          "dateTest22": "^(12|0?[1-9]|1[0-2]):[0-5][0-9] (AM|PM|am|pm)$",
+          "dateTest3": "^(?:(?:19|20)[0-9]{2})-(?:0[1-9]|1[012])(?:-(?:0[1-9]|[12][0-9]|3[01]))?$",
+          "dateTest4": "^(?:(?:19|20)\\d{2})-W(?:0[1-9]|[1-4][0-9]|5[0-3])$",
+          "dateTest5": "^(?:(?:19|20)\\d{2})W(?:0[1-9]|[1-4][0-9]|5[0-3])$",
+          "dateTest6": "^(?:(?:19|20)\\d{2})-(?:0[1-9]|[1-2]\\d{2}|3[0-5]\\d|36[0-6])$",
+          "dateTest8": "^(?:(?:19|20)\\d{2})(?:0[1-9]|[1-2]\\d{2}|3[0-5]\\d|36[0-6])$",
+          "dateTest9": "^(?:19|20)\\d{2}$"
+        }
+      },
+      "meta": [
+        {
+          "d": "EPB2R1S-tRdT0dBnSI8TdWHEmAXnd_r3TmAbY8XNczpz",
+          "language": "eng",
+          "type": "spec/overlays/meta/1.0",
+          "capture_base": "EMKTfeGLyhyBggOGz_w1RGjIIOvoyeYm56AgNIlGYffu",
+          "description": "Testing dates",
+          "name": "dates"
+        }
+      ]
+    }
+  },
+  "dependencies": []
+}

@@ -32,4 +32,4 @@ module.exports = {
   rules: {},
   plugins: ['jest'],
   ignorePatterns: ['*.eslintrc.js']
-};
+}

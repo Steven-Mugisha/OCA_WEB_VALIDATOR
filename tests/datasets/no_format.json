@@ -1,0 +1,2130 @@
+{
+  "bundle": {
+    "d": "EKBscqok9W8z7x1V0moWGlg9A9pfqgpwOrNoLF_1x2pv",
+    "capture_base": {
+      "d": "EDqWkB0FXc_TfuHcnVKUWzZm3NNFpEPt4wUVntmjDDWN",
+      "type": "spec/capture_base/1.0",
+      "classification": "",
+      "attributes": {
+        "SQLDatabases": [
+          "Text"
+        ],
+        "_10": "Text",
+        "_6_2": "Text",
+        "_9": "Text",
+        "accountableCareOrganizationModels": [
+          "Text"
+        ],
+        "biobanks": [
+          "Text"
+        ],
+        "bioinformaticsAnalysisFileFormats": [
+          "Text"
+        ],
+        "causeEffectAnalysisTools": [
+          "Text"
+        ],
+        "clinicalDataFileFormats": [
+          "Text"
+        ],
+        "clinicalDecisionFlowcharts": [
+          "Text"
+        ],
+        "clinicalDecisionSupportAlgorithms": [
+          "Text"
+        ],
+        "clinicalModels": [
+          "Text"
+        ],
+        "clinicalPathwayModels": [
+          "Text"
+        ],
+        "cloudStorageBigDataFormats": [
+          "Text"
+        ],
+        "contactName": "Text",
+        "contactRole": "Text",
+        "controlledTerminologies": [
+          "Text"
+        ],
+        "dataCataloguingModels": [
+          "Text"
+        ],
+        "dataVisualizationFileFormats": [
+          "Text"
+        ],
+        "databaseSolutions": [
+          "Text"
+        ],
+        "datasetFileFormats": [
+          "Text"
+        ],
+        "deepLearningModels": [
+          "Text"
+        ],
+        "electrocardiogramModels": [
+          "Text"
+        ],
+        "electronicHealthRecordExportFormats": [
+          "Text"
+        ],
+        "epigenomicDataFileFormats": [
+          "Text"
+        ],
+        "epigenomicModels": [
+          "Text"
+        ],
+        "federatedLearningModels": [
+          "Text"
+        ],
+        "generalLinearModels": [
+          "Text"
+        ],
+        "genomicAnnotationEffectPredictionTools": [
+          "Text"
+        ],
+        "genomicDataAnalysisTools": [
+          "Text"
+        ],
+        "genomicDataFileFormats": [
+          "Text"
+        ],
+        "genomicDataVisualizationExplorationTools": [
+          "Text"
+        ],
+        "genomicVariantAnalysisStatisticalGeneticsTools": [
+          "Text"
+        ],
+        "genomicVariantAnnotationFormats": [
+          "Text"
+        ],
+        "healthEconomicsModels": [
+          "Text"
+        ],
+        "imageFileFormats": [
+          "Text"
+        ],
+        "imagingModels": [
+          "Text"
+        ],
+        "laboratoryTestModels": [
+          "Text"
+        ],
+        "logFileFormats": [
+          "Text"
+        ],
+        "logisticRegression": [
+          "Text"
+        ],
+        "metabolomicDataFileFormats": [
+          "Text"
+        ],
+        "multivariateRegressionAnalysis": [
+          "Text"
+        ],
+        "naturalLanguageProcessingModels": [
+          "Text"
+        ],
+        "noSQLDatabases": [
+          "Text"
+        ],
+        "ontologies": [
+          "Text"
+        ],
+        "ontologyFileFormats": [
+          "Text"
+        ],
+        "otherAccountableCareOrganizationModels": "Text",
+        "otherBiobanks": "Text",
+        "otherBioinformaticsAnalysisFileFormats": "Text",
+        "otherCauseEffectAnalysisTools": "Text",
+        "otherClinicalDataFileFormats": "Text",
+        "otherClinicalDecisionFlowcharts": "Text",
+        "otherClinicalDecisionSupportAlgorithms": "Text",
+        "otherClinicalModels": "Text",
+        "otherClinicalPathwayModels": "Text",
+        "otherCloudStorageBigDataFormats": "Text",
+        "otherControlledTerminologies": "Text",
+        "otherDataCataloguingModels": "Text",
+        "otherDataFileFormats": "Text",
+        "otherDataVisualizationFileFormats": "Text",
+        "otherDatabaseSolutions": "Text",
+        "otherDeepLearningModels": "Text",
+        "otherElectrocardiogramModels": "Text",
+        "otherElectronicHealthRecordExportFormats": "Text",
+        "otherEpigenomicDataFileFormats": "Text",
+        "otherEpigenomicModels": "Text",
+        "otherFederatedLearningModels": "Text",
+        "otherGeneralLinearModels": "Text",
+        "otherGenomicAnnotationEffectPredictionTools": "Text",
+        "otherGenomicDataAnalysisTools": "Text",
+        "otherGenomicDataFileFormats": "Text",
+        "otherGenomicDataVisualizationExplorationTools": "Text",
+        "otherGenomicVariantAnalysisStatisticalGeneticsTools": "Text",
+        "otherGenomicVariantAnnotationFormats": "Text",
+        "otherHealthEconomicsModels": "Text",
+        "otherImageFileFormats": "Text",
+        "otherImagingModels": "Text",
+        "otherLaboratoryTestModels": "Text",
+        "otherLogFileFormats": "Text",
+        "otherLogisticRegression": "Text",
+        "otherMetabolomicDataFileFormats": "Text",
+        "otherMultivariateRegressionAnalysis": "Text",
+        "otherNaturalLanguageProcessingModels": "Text",
+        "otherNoSQLDatabases": "Text",
+        "otherOntologies": "Text",
+        "otherOntologyFileFormats": "Text",
+        "otherPatientRegistries": "Text",
+        "otherPharmacogenomicAlgorithms": "Text",
+        "otherPhysiologicalModels": "Text",
+        "otherPopulationHealthModels": "Text",
+        "otherPrecisionMedicineSoftwarePlatforms": "Text",
+        "otherProteomicDataFileFormats": "Text",
+        "otherRiskStratificationTools": "Text",
+        "otherSQLDatabases": "Text",
+        "otherSchemaFileFormats": "Text",
+        "otherScriptCodeFileFormats": "Text",
+        "otherSequenceAlignmentHandlingTools": "Text",
+        "otherStatisticalAnalysisBioinformaticsTools": "Text",
+        "otherStatisticalAnalysisModels": "Text",
+        "otherStructuredDataFileFormats": "Text",
+        "otherStudies": "Text",
+        "otherSupervisedLearningModels": "Text",
+        "otherTimeSeriesAnalysisModels": "Text",
+        "otherTranscriptomicDataFileFormats": "Text",
+        "otherTranscriptomicModels": "Text",
+        "otherUnsupervisedLearningModels": "Text",
+        "otherVocabularies": "Text",
+        "otherWholeGenomeExomeSeqModels": "Text",
+        "partner": "Text",
+        "patientRegistries": [
+          "Text"
+        ],
+        "pharmacogenomicAlgorithms": [
+          "Text"
+        ],
+        "physiologicalModels": [
+          "Text"
+        ],
+        "populationHealthModels": [
+          "Text"
+        ],
+        "precisionMedicineSoftwarePlatforms": [
+          "Text"
+        ],
+        "proteomicDataFileFormats": [
+          "Text"
+        ],
+        "resourceDescriptionFrameworkFormats": [
+          "Text"
+        ],
+        "riskStratificationTools": [
+          "Text"
+        ],
+        "schemaFileFormats": [
+          "Text"
+        ],
+        "scriptCodeFileFormats": [
+          "Text"
+        ],
+        "sequenceAlignmentHandlingTools": [
+          "Text"
+        ],
+        "statisticalAnalysisBioinformaticsTools": [
+          "Text"
+        ],
+        "statisticalAnalysisModels": [
+          "Text"
+        ],
+        "structuredDataFileFormats": [
+          "Text"
+        ],
+        "studies": [
+          "Text"
+        ],
+        "supervisedLearningModels": [
+          "Text"
+        ],
+        "timeSeriesAnalysisModels": [
+          "Text"
+        ],
+        "transcriptomicDataFileFormats": [
+          "Text"
+        ],
+        "transcriptomicModels": [
+          "Text"
+        ],
+        "unsupervisedLearningModels": [
+          "Text"
+        ],
+        "useCase": "Text",
+        "vocabularies": [
+          "Text"
+        ],
+        "webOntologyLanguageFormats": [
+          "Text"
+        ],
+        "wholeGenomeExomeSeqModels": [
+          "Text"
+        ]
+      },
+      "flagged_attributes": []
+    },
+    "overlays": {
+      "character_encoding": {
+        "d": "EG3959O-01UpxfVfDBzYtLHR-Tv32RZt8sTfVZ0vo-rq",
+        "type": "spec/overlays/character_encoding/1.0",
+        "capture_base": "EDqWkB0FXc_TfuHcnVKUWzZm3NNFpEPt4wUVntmjDDWN",
+        "attribute_character_encoding": {
+          "SQLDatabases": "utf-8",
+          "_10": "utf-8",
+          "_6_2": "utf-8",
+          "_9": "utf-8",
+          "accountableCareOrganizationModels": "utf-8",
+          "biobanks": "utf-8",
+          "bioinformaticsAnalysisFileFormats": "utf-8",
+          "causeEffectAnalysisTools": "utf-8",
+          "clinicalDataFileFormats": "utf-8",
+          "clinicalDecisionFlowcharts": "utf-8",
+          "clinicalDecisionSupportAlgorithms": "utf-8",
+          "clinicalModels": "utf-8",
+          "clinicalPathwayModels": "utf-8",
+          "cloudStorageBigDataFormats": "utf-8",
+          "contactName": "utf-8",
+          "contactRole": "utf-8",
+          "controlledTerminologies": "utf-8",
+          "dataCataloguingModels": "utf-8",
+          "dataVisualizationFileFormats": "utf-8",
+          "databaseSolutions": "utf-8",
+          "datasetFileFormats": "utf-8",
+          "deepLearningModels": "utf-8",
+          "electrocardiogramModels": "utf-8",
+          "electronicHealthRecordExportFormats": "utf-8",
+          "epigenomicDataFileFormats": "utf-8",
+          "epigenomicModels": "utf-8",
+          "federatedLearningModels": "utf-8",
+          "generalLinearModels": "utf-8",
+          "genomicAnnotationEffectPredictionTools": "utf-8",
+          "genomicDataAnalysisTools": "utf-8",
+          "genomicDataFileFormats": "utf-8",
+          "genomicDataVisualizationExplorationTools": "utf-8",
+          "genomicVariantAnalysisStatisticalGeneticsTools": "utf-8",
+          "genomicVariantAnnotationFormats": "utf-8",
+          "healthEconomicsModels": "utf-8",
+          "imageFileFormats": "utf-8",
+          "imagingModels": "utf-8",
+          "laboratoryTestModels": "utf-8",
+          "logFileFormats": "utf-8",
+          "logisticRegression": "utf-8",
+          "metabolomicDataFileFormats": "utf-8",
+          "multivariateRegressionAnalysis": "utf-8",
+          "naturalLanguageProcessingModels": "utf-8",
+          "noSQLDatabases": "utf-8",
+          "ontologies": "utf-8",
+          "ontologyFileFormats": "utf-8",
+          "otherAccountableCareOrganizationModels": "utf-8",
+          "otherBiobanks": "utf-8",
+          "otherBioinformaticsAnalysisFileFormats": "utf-8",
+          "otherCauseEffectAnalysisTools": "utf-8",
+          "otherClinicalDataFileFormats": "utf-8",
+          "otherClinicalDecisionFlowcharts": "utf-8",
+          "otherClinicalDecisionSupportAlgorithms": "utf-8",
+          "otherClinicalModels": "utf-8",
+          "otherClinicalPathwayModels": "utf-8",
+          "otherCloudStorageBigDataFormats": "utf-8",
+          "otherControlledTerminologies": "utf-8",
+          "otherDataCataloguingModels": "utf-8",
+          "otherDataFileFormats": "utf-8",
+          "otherDataVisualizationFileFormats": "utf-8",
+          "otherDatabaseSolutions": "utf-8",
+          "otherDeepLearningModels": "utf-8",
+          "otherElectrocardiogramModels": "utf-8",
+          "otherElectronicHealthRecordExportFormats": "utf-8",
+          "otherEpigenomicDataFileFormats": "utf-8",
+          "otherEpigenomicModels": "utf-8",
+          "otherFederatedLearningModels": "utf-8",
+          "otherGeneralLinearModels": "utf-8",
+          "otherGenomicAnnotationEffectPredictionTools": "utf-8",
+          "otherGenomicDataAnalysisTools": "utf-8",
+          "otherGenomicDataFileFormats": "utf-8",
+          "otherGenomicDataVisualizationExplorationTools": "utf-8",
+          "otherGenomicVariantAnalysisStatisticalGeneticsTools": "utf-8",
+          "otherGenomicVariantAnnotationFormats": "utf-8",
+          "otherHealthEconomicsModels": "utf-8",
+          "otherImageFileFormats": "utf-8",
+          "otherImagingModels": "utf-8",
+          "otherLaboratoryTestModels": "utf-8",
+          "otherLogFileFormats": "utf-8",
+          "otherLogisticRegression": "utf-8",
+          "otherMetabolomicDataFileFormats": "utf-8",
+          "otherMultivariateRegressionAnalysis": "utf-8",
+          "otherNaturalLanguageProcessingModels": "utf-8",
+          "otherNoSQLDatabases": "utf-8",
+          "otherOntologies": "utf-8",
+          "otherOntologyFileFormats": "utf-8",
+          "otherPatientRegistries": "utf-8",
+          "otherPharmacogenomicAlgorithms": "utf-8",
+          "otherPhysiologicalModels": "utf-8",
+          "otherPopulationHealthModels": "utf-8",
+          "otherPrecisionMedicineSoftwarePlatforms": "utf-8",
+          "otherProteomicDataFileFormats": "utf-8",
+          "otherRiskStratificationTools": "utf-8",
+          "otherSQLDatabases": "utf-8",
+          "otherSchemaFileFormats": "utf-8",
+          "otherScriptCodeFileFormats": "utf-8",
+          "otherSequenceAlignmentHandlingTools": "utf-8",
+          "otherStatisticalAnalysisBioinformaticsTools": "utf-8",
+          "otherStatisticalAnalysisModels": "utf-8",
+          "otherStructuredDataFileFormats": "utf-8",
+          "otherStudies": "utf-8",
+          "otherSupervisedLearningModels": "utf-8",
+          "otherTimeSeriesAnalysisModels": "utf-8",
+          "otherTranscriptomicDataFileFormats": "utf-8",
+          "otherTranscriptomicModels": "utf-8",
+          "otherUnsupervisedLearningModels": "utf-8",
+          "otherVocabularies": "utf-8",
+          "otherWholeGenomeExomeSeqModels": "utf-8",
+          "partner": "utf-8",
+          "patientRegistries": "utf-8",
+          "pharmacogenomicAlgorithms": "utf-8",
+          "physiologicalModels": "utf-8",
+          "populationHealthModels": "utf-8",
+          "precisionMedicineSoftwarePlatforms": "utf-8",
+          "proteomicDataFileFormats": "utf-8",
+          "resourceDescriptionFrameworkFormats": "utf-8",
+          "riskStratificationTools": "utf-8",
+          "schemaFileFormats": "utf-8",
+          "scriptCodeFileFormats": "utf-8",
+          "sequenceAlignmentHandlingTools": "utf-8",
+          "statisticalAnalysisBioinformaticsTools": "utf-8",
+          "statisticalAnalysisModels": "utf-8",
+          "structuredDataFileFormats": "utf-8",
+          "studies": "utf-8",
+          "supervisedLearningModels": "utf-8",
+          "timeSeriesAnalysisModels": "utf-8",
+          "transcriptomicDataFileFormats": "utf-8",
+          "transcriptomicModels": "utf-8",
+          "unsupervisedLearningModels": "utf-8",
+          "useCase": "utf-8",
+          "vocabularies": "utf-8",
+          "webOntologyLanguageFormats": "utf-8",
+          "wholeGenomeExomeSeqModels": "utf-8"
+        }
+      },
+      "meta": [
+        {
+          "d": "ECWx7oQ9EZIrEBdbBjUfW3qE1CmQ_Xyau9f1O-eBpKN8",
+          "language": "eng",
+          "type": "spec/overlays/meta/1.0",
+          "capture_base": "EDqWkB0FXc_TfuHcnVKUWzZm3NNFpEPt4wUVntmjDDWN",
+          "description": "The NextGen Data Management Survey contains questions to assess and organize research data management practices across NextGen's cardiovascular use cases.",
+          "name": "NextGen Data Management Survey"
+        }
+      ],
+      "label": [
+        {
+          "d": "EI9mXb_zs7m9GlSyfRhO2-OMW40V-MFr4oC4RfY3tyb8",
+          "language": "eng",
+          "type": "spec/overlays/label/1.0",
+          "capture_base": "EDqWkB0FXc_TfuHcnVKUWzZm3NNFpEPt4wUVntmjDDWN",
+          "attribute_labels": {
+            "SQLDatabases": "SQL Databases",
+            "_10": "Section 10: Data Integration and Harmonization",
+            "_6_2": "2. Which tools are used to train/run the Machine Learning and Deep Learning models?",
+            "_9": "Section 9: Synthetic Data",
+            "accountableCareOrganizationModels": "Accountable Care Organization Models",
+            "biobanks": "Biobanks",
+            "bioinformaticsAnalysisFileFormats": "Bioinformatics Analysis File Formats",
+            "causeEffectAnalysisTools": "Cause-and-Effect Analysis Tools",
+            "clinicalDataFileFormats": "Clinical Data File Formats",
+            "clinicalDecisionFlowcharts": "Clinical Decision Flowcharts",
+            "clinicalDecisionSupportAlgorithms": "Clinical Decision Support Algorithms",
+            "clinicalModels": "Clinical Models",
+            "clinicalPathwayModels": "Clinical Pathway Models",
+            "cloudStorageBigDataFormats": "Cloud Storage and Big Data Formats",
+            "contactName": "Contact Name",
+            "contactRole": "Contact Role",
+            "controlledTerminologies": "Controlled Terminologies",
+            "dataCataloguingModels": "Data Cataloguing Models",
+            "dataVisualizationFileFormats": "Data Visualization File Formats",
+            "databaseSolutions": "Database Solutions",
+            "datasetFileFormats": "Dataset File Formats",
+            "deepLearningModels": "Deep Learning Models",
+            "electrocardiogramModels": "Electrocardiogram Models",
+            "electronicHealthRecordExportFormats": "Electronic Health Record Export Formats",
+            "epigenomicDataFileFormats": "Epigenomic Data File Formats",
+            "epigenomicModels": "Epigenomic Models",
+            "federatedLearningModels": "Federated Learning Models",
+            "generalLinearModels": "General Linear Models",
+            "genomicAnnotationEffectPredictionTools": "Genomic Annotation and Effect Prediction Tools",
+            "genomicDataAnalysisTools": "Genomic Data Analysis Tools",
+            "genomicDataFileFormats": "Genomic Data File Formats",
+            "genomicDataVisualizationExplorationTools": "Genomic Data Visualization and Exploration Tools",
+            "genomicVariantAnalysisStatisticalGeneticsTools": "Genomic Variant Analysis and Statistical Genetics Tools",
+            "genomicVariantAnnotationFormats": "Genomic Variant Annotation Formats",
+            "healthEconomicsModels": "Health Economics Models",
+            "imageFileFormats": "Image File Formats",
+            "imagingModels": "Imaging Models",
+            "laboratoryTestModels": "Laboratory Test Models",
+            "logFileFormats": "Log File Formats",
+            "logisticRegression": "Logistic Regression",
+            "metabolomicDataFileFormats": "Metabolomic Data File Formats",
+            "multivariateRegressionAnalysis": "Multivariate Regression Analysis",
+            "naturalLanguageProcessingModels": "Natural Language Processing Models",
+            "noSQLDatabases": "NoSQL Databases",
+            "ontologies": "Ontologies",
+            "ontologyFileFormats": "Ontology File Formats",
+            "otherAccountableCareOrganizationModels": "Other Accountable Care Organization (ACO) Models",
+            "otherBiobanks": "Other Biobanks",
+            "otherBioinformaticsAnalysisFileFormats": "Other Bioinformatics Analysis File Formats",
+            "otherCauseEffectAnalysisTools": "Other Cause-and-Effect Analysis Tools",
+            "otherClinicalDataFileFormats": "Other Clinical Data File Formats",
+            "otherClinicalDecisionFlowcharts": "Other Clinical Decision Trees and Flowcharts",
+            "otherClinicalDecisionSupportAlgorithms": "Other Clinical Decision Support Algorithms",
+            "otherClinicalModels": "Other Clinical Data Models",
+            "otherClinicalPathwayModels": "Other Clinical Pathway Models",
+            "otherCloudStorageBigDataFormats": "Other Cloud Storage and Big Data Formats",
+            "otherControlledTerminologies": "Other Controlled Terminologies",
+            "otherDataCataloguingModels": "Other Data Cataloguing Models",
+            "otherDataFileFormats": "Other Dataset File Formats",
+            "otherDataVisualizationFileFormats": "Other Data Visualization File Formats",
+            "otherDatabaseSolutions": "Other Database Solutions",
+            "otherDeepLearningModels": "Other Deep Learning Models",
+            "otherElectrocardiogramModels": "Other Electrocardiogram (ECG) Data Models",
+            "otherElectronicHealthRecordExportFormats": "Other Electronic Health Record (EHR) Export Formats",
+            "otherEpigenomicDataFileFormats": "Other Epigenomic Data File Formats",
+            "otherEpigenomicModels": "Other Epigenomic Data Models",
+            "otherFederatedLearningModels": "Other Federated Learning Models",
+            "otherGeneralLinearModels": "Other General Linear Models (GLMs)",
+            "otherGenomicAnnotationEffectPredictionTools": "Other Genomic Annotation and Effect Prediction Tools",
+            "otherGenomicDataAnalysisTools": "Other Genomic Data Analysis Tools",
+            "otherGenomicDataFileFormats": "Other Genomic Data File Formats",
+            "otherGenomicDataVisualizationExplorationTools": "Other Genomic Data Visualization and Exploration Tools",
+            "otherGenomicVariantAnalysisStatisticalGeneticsTools": "Other Genomic Variant Analysis and Statistical Genetics Tools",
+            "otherGenomicVariantAnnotationFormats": "Other Genomic Variant Annotation Formats",
+            "otherHealthEconomicsModels": "Other Health Economics Models",
+            "otherImageFileFormats": "Other Image File Formats",
+            "otherImagingModels": "Other Imaging Data Models",
+            "otherLaboratoryTestModels": "Other Laboratory Test Data Models",
+            "otherLogFileFormats": "Other Log File Formats",
+            "otherLogisticRegression": "Other Logistic Regression",
+            "otherMetabolomicDataFileFormats": "Other Metabolomic Data File Formats",
+            "otherMultivariateRegressionAnalysis": "Other Multivariate Regression Analysis",
+            "otherNaturalLanguageProcessingModels": "Other Natural Language Processing (NLP) Models",
+            "otherNoSQLDatabases": "Other NoSQL Databases",
+            "otherOntologies": "Other Ontologies",
+            "otherOntologyFileFormats": "Other Ontology File Formats",
+            "otherPatientRegistries": "Other Patient Registries",
+            "otherPharmacogenomicAlgorithms": "Other Pharmacogenomic Algorithms",
+            "otherPhysiologicalModels": "Other Physiological Models",
+            "otherPopulationHealthModels": "Other Population Health Models",
+            "otherPrecisionMedicineSoftwarePlatforms": "Other Precision Medicine Software Platforms",
+            "otherProteomicDataFileFormats": "Other Proteomic Data File Formats",
+            "otherRiskStratificationTools": "Other Risk Stratification Tools",
+            "otherSQLDatabases": "Other SQL/Relational Databases",
+            "otherSchemaFileFormats": "Other Schema File Formats",
+            "otherScriptCodeFileFormats": "Other Script and Code File Formats",
+            "otherSequenceAlignmentHandlingTools": "Other Sequence Alignment and Handling Tools",
+            "otherStatisticalAnalysisBioinformaticsTools": "Other Statistical Analysis and Bioinformatics Tools",
+            "otherStatisticalAnalysisModels": "Other Statistical Analysis Models",
+            "otherStructuredDataFileFormats": "Other Structured Data File Formats",
+            "otherStudies": "Other Studies",
+            "otherSupervisedLearningModels": "Other Supervised Learning Models",
+            "otherTimeSeriesAnalysisModels": "Other Time-Series Analysis Models",
+            "otherTranscriptomicDataFileFormats": "Other Transcriptomic Data File Formats",
+            "otherTranscriptomicModels": "Other Transcriptomic Data Models",
+            "otherUnsupervisedLearningModels": "Other Unsupervised Learning Models",
+            "otherVocabularies": "Other Vocabularies",
+            "otherWholeGenomeExomeSeqModels": "Other Whole Genome and Whole Exome Sequencing Data Models",
+            "partner": "Partner",
+            "patientRegistries": "Patient Registries",
+            "pharmacogenomicAlgorithms": "Pharmacogenomic Algorithms",
+            "physiologicalModels": "Physiological Models",
+            "populationHealthModels": "Population Health Models",
+            "precisionMedicineSoftwarePlatforms": "Precision Medicine Software Platforms",
+            "proteomicDataFileFormats": "Proteomic Data File Formats",
+            "resourceDescriptionFrameworkFormats": "Resource Description Framework Formats",
+            "riskStratificationTools": "Risk Stratification Tools",
+            "schemaFileFormats": "Schema File Formats",
+            "scriptCodeFileFormats": "Script and Code File Formats",
+            "sequenceAlignmentHandlingTools": "Sequence Alignment and Handling Tools",
+            "statisticalAnalysisBioinformaticsTools": "Statistical Analysis and Bioinformatics Tools",
+            "statisticalAnalysisModels": "Statistical Analysis Models",
+            "structuredDataFileFormats": "Structured Data File Formats",
+            "studies": "Studies",
+            "supervisedLearningModels": "Supervised Learning Models",
+            "timeSeriesAnalysisModels": "Time-Series Analysis Models",
+            "transcriptomicDataFileFormats": "Transcriptomic Data File Formats",
+            "transcriptomicModels": "Transcriptomic Models",
+            "unsupervisedLearningModels": "Unsupervised Learning Models",
+            "useCase": "Use Case",
+            "vocabularies": "Vocabularies",
+            "webOntologyLanguageFormats": "Web Ontology Language Formats",
+            "wholeGenomeExomeSeqModels": "Whole Genome and Whole Exome Sequencing Data Models"
+          },
+          "attribute_categories": [],
+          "category_labels": {}
+        }
+      ],
+      "conformance": {
+        "d": "EAGsooVGGScSnfPWzGMYpTMZeXdngKW2Mf-yQ-K-zDfT",
+        "type": "spec/overlays/conformance/1.0",
+        "capture_base": "EDqWkB0FXc_TfuHcnVKUWzZm3NNFpEPt4wUVntmjDDWN",
+        "attribute_conformance": {
+          "SQLDatabases": "O",
+          "_10": "O",
+          "_6_2": "O",
+          "_9": "O",
+          "accountableCareOrganizationModels": "O",
+          "biobanks": "O",
+          "bioinformaticsAnalysisFileFormats": "O",
+          "causeEffectAnalysisTools": "O",
+          "clinicalDataFileFormats": "O",
+          "clinicalDecisionFlowcharts": "O",
+          "clinicalDecisionSupportAlgorithms": "O",
+          "clinicalModels": "O",
+          "clinicalPathwayModels": "O",
+          "cloudStorageBigDataFormats": "O",
+          "contactName": "M",
+          "contactRole": "M",
+          "controlledTerminologies": "O",
+          "dataCataloguingModels": "O",
+          "dataVisualizationFileFormats": "O",
+          "databaseSolutions": "O",
+          "datasetFileFormats": "O",
+          "deepLearningModels": "O",
+          "electrocardiogramModels": "O",
+          "electronicHealthRecordExportFormats": "O",
+          "epigenomicDataFileFormats": "O",
+          "epigenomicModels": "O",
+          "federatedLearningModels": "O",
+          "generalLinearModels": "O",
+          "genomicAnnotationEffectPredictionTools": "O",
+          "genomicDataAnalysisTools": "O",
+          "genomicDataFileFormats": "O",
+          "genomicDataVisualizationExplorationTools": "O",
+          "genomicVariantAnalysisStatisticalGeneticsTools": "O",
+          "genomicVariantAnnotationFormats": "O",
+          "healthEconomicsModels": "O",
+          "imageFileFormats": "O",
+          "imagingModels": "O",
+          "laboratoryTestModels": "O",
+          "logFileFormats": "O",
+          "logisticRegression": "O",
+          "metabolomicDataFileFormats": "O",
+          "multivariateRegressionAnalysis": "O",
+          "naturalLanguageProcessingModels": "O",
+          "noSQLDatabases": "O",
+          "ontologies": "O",
+          "ontologyFileFormats": "O",
+          "otherAccountableCareOrganizationModels": "O",
+          "otherBiobanks": "O",
+          "otherBioinformaticsAnalysisFileFormats": "O",
+          "otherCauseEffectAnalysisTools": "O",
+          "otherClinicalDataFileFormats": "O",
+          "otherClinicalDecisionFlowcharts": "O",
+          "otherClinicalDecisionSupportAlgorithms": "O",
+          "otherClinicalModels": "O",
+          "otherClinicalPathwayModels": "O",
+          "otherCloudStorageBigDataFormats": "O",
+          "otherControlledTerminologies": "O",
+          "otherDataCataloguingModels": "O",
+          "otherDataFileFormats": "O",
+          "otherDataVisualizationFileFormats": "O",
+          "otherDatabaseSolutions": "O",
+          "otherDeepLearningModels": "O",
+          "otherElectrocardiogramModels": "O",
+          "otherElectronicHealthRecordExportFormats": "O",
+          "otherEpigenomicDataFileFormats": "O",
+          "otherEpigenomicModels": "O",
+          "otherFederatedLearningModels": "O",
+          "otherGeneralLinearModels": "O",
+          "otherGenomicAnnotationEffectPredictionTools": "O",
+          "otherGenomicDataAnalysisTools": "O",
+          "otherGenomicDataFileFormats": "O",
+          "otherGenomicDataVisualizationExplorationTools": "O",
+          "otherGenomicVariantAnalysisStatisticalGeneticsTools": "O",
+          "otherGenomicVariantAnnotationFormats": "O",
+          "otherHealthEconomicsModels": "O",
+          "otherImageFileFormats": "O",
+          "otherImagingModels": "O",
+          "otherLaboratoryTestModels": "O",
+          "otherLogFileFormats": "O",
+          "otherLogisticRegression": "O",
+          "otherMetabolomicDataFileFormats": "O",
+          "otherMultivariateRegressionAnalysis": "O",
+          "otherNaturalLanguageProcessingModels": "O",
+          "otherNoSQLDatabases": "O",
+          "otherOntologies": "O",
+          "otherOntologyFileFormats": "O",
+          "otherPatientRegistries": "O",
+          "otherPharmacogenomicAlgorithms": "O",
+          "otherPhysiologicalModels": "O",
+          "otherPopulationHealthModels": "O",
+          "otherPrecisionMedicineSoftwarePlatforms": "O",
+          "otherProteomicDataFileFormats": "O",
+          "otherRiskStratificationTools": "O",
+          "otherSQLDatabases": "O",
+          "otherSchemaFileFormats": "O",
+          "otherScriptCodeFileFormats": "O",
+          "otherSequenceAlignmentHandlingTools": "O",
+          "otherStatisticalAnalysisBioinformaticsTools": "O",
+          "otherStatisticalAnalysisModels": "O",
+          "otherStructuredDataFileFormats": "O",
+          "otherStudies": "O",
+          "otherSupervisedLearningModels": "O",
+          "otherTimeSeriesAnalysisModels": "O",
+          "otherTranscriptomicDataFileFormats": "O",
+          "otherTranscriptomicModels": "O",
+          "otherUnsupervisedLearningModels": "O",
+          "otherVocabularies": "O",
+          "otherWholeGenomeExomeSeqModels": "O",
+          "partner": "M",
+          "patientRegistries": "O",
+          "pharmacogenomicAlgorithms": "O",
+          "physiologicalModels": "O",
+          "populationHealthModels": "O",
+          "precisionMedicineSoftwarePlatforms": "O",
+          "proteomicDataFileFormats": "O",
+          "resourceDescriptionFrameworkFormats": "O",
+          "riskStratificationTools": "O",
+          "schemaFileFormats": "O",
+          "scriptCodeFileFormats": "O",
+          "sequenceAlignmentHandlingTools": "O",
+          "statisticalAnalysisBioinformaticsTools": "O",
+          "statisticalAnalysisModels": "O",
+          "structuredDataFileFormats": "O",
+          "studies": "O",
+          "supervisedLearningModels": "O",
+          "timeSeriesAnalysisModels": "O",
+          "transcriptomicDataFileFormats": "O",
+          "transcriptomicModels": "O",
+          "unsupervisedLearningModels": "O",
+          "useCase": "M",
+          "vocabularies": "O",
+          "webOntologyLanguageFormats": "O",
+          "wholeGenomeExomeSeqModels": "O"
+        }
+      },
+      "entry_code": {
+        "d": "EGZtIj3aay-saSCKtn9R6wKp6kMD2-uMMkQ3TnM5pkBi",
+        "type": "spec/overlays/entry_code/1.0",
+        "capture_base": "EDqWkB0FXc_TfuHcnVKUWzZm3NNFpEPt4wUVntmjDDWN",
+        "attribute_entry_codes": {
+          "SQLDatabases": [
+            "FIRE",
+            "INFORM",
+            "MARIA",
+            "OTHR",
+            "SAPH",
+            "SYBA",
+            "TERA"
+          ],
+          "accountableCareOrganizationModels": [
+            "ACOINV",
+            "DCM",
+            "ESRD",
+            "MSSP",
+            "NEXTGEN",
+            "OCM",
+            "OTHR",
+            "PATHWAY",
+            "PIONEER",
+            "VTAP"
+          ],
+          "biobanks": [
+            "AAAEX",
+            "ATHXP",
+            "BIKE",
+            "ENCOD",
+            "GHPWS",
+            "GTEX",
+            "LLBB",
+            "MUVB",
+            "OTHR",
+            "PCGC",
+            "UKBB"
+          ],
+          "bioinformaticsAnalysisFileFormats": [
+            "ARFF",
+            "CSV",
+            "FASTA",
+            "FASTQ",
+            "GFF",
+            "GTF",
+            "HDF5",
+            "NEXML",
+            "OTHR",
+            "PDB",
+            "PHXML",
+            "SBML",
+            "TSV",
+            "VCF",
+            "WIGBW"
+          ],
+          "causeEffectAnalysisTools": [
+            "CLD",
+            "DECAM",
+            "FISHB",
+            "FMEA",
+            "MENDR",
+            "OTHR",
+            "PATH",
+            "RCA",
+            "SEM"
+          ],
+          "clinicalDataFileFormats": [
+            "EDIF",
+            "HL7",
+            "JSON",
+            "OTHR",
+            "PDF",
+            "RDS",
+            "SPSS",
+            "XML"
+          ],
+          "clinicalDecisionFlowcharts": [
+            "ACCAHA",
+            "CCS",
+            "ESC",
+            "HFSA",
+            "NICE",
+            "OTHR",
+            "SCAI"
+          ],
+          "clinicalDecisionSupportAlgorithms": [
+            "ACCAHA",
+            "CHA2DS2",
+            "EUROSC",
+            "GRACE",
+            "HASBLD",
+            "MELD",
+            "OTHR",
+            "QTCCAL",
+            "SYNTAX"
+          ],
+          "clinicalModels": [
+            "ADAM",
+            "BRIDG",
+            "CDASH",
+            "FHIR",
+            "FHIRG",
+            "MIMIC",
+            "ODM",
+            "OMOP",
+            "OTHR",
+            "PCOR",
+            "PRM",
+            "SDTM",
+            "SEND"
+          ],
+          "clinicalPathwayModels": [
+            "ACCAHA",
+            "CCS",
+            "ESC",
+            "GWTG",
+            "HFSA",
+            "NICE",
+            "OTHR"
+          ],
+          "cloudStorageBigDataFormats": [
+            "AVRO",
+            "BLOB",
+            "CSV",
+            "FTHR",
+            "GBQ",
+            "HDF5",
+            "JSON",
+            "KAFKA",
+            "ORC",
+            "OTHR",
+            "PARQT",
+            "SEQF",
+            "TFREC",
+            "XML"
+          ],
+          "controlledTerminologies": [
+            "CDISC",
+            "CPT",
+            "ICD10",
+            "LOINC",
+            "OTHR",
+            "RXNORM",
+            "SNOMED"
+          ],
+          "dataCataloguingModels": [
+            "DCAT",
+            "DCATAP",
+            "OTHR"
+          ],
+          "dataVisualizationFileFormats": [
+            "AI",
+            "BITOOL",
+            "D3JS",
+            "EXCEL",
+            "GIS",
+            "IPYNB",
+            "JPEG",
+            "OTHR",
+            "PDF",
+            "PLOTLY",
+            "PNG",
+            "RMD",
+            "SVG",
+            "TABWB",
+            "TIFF"
+          ],
+          "databaseSolutions": [
+            "AMZDDB",
+            "AMZRDS",
+            "AZCDB",
+            "AZSQL",
+            "CASS",
+            "DB2",
+            "ES",
+            "GBQ",
+            "GCSQL",
+            "MONGO",
+            "MSSQL",
+            "MYSQL",
+            "NEO4J",
+            "NOSQL",
+            "ORCL",
+            "OTHR",
+            "PGSQL",
+            "REDIS",
+            "SQLDB",
+            "SQLITE"
+          ],
+          "datasetFileFormats": [
+            "CSV",
+            "EXCL",
+            "JSON",
+            "OTHR",
+            "SASDS",
+            "SPSS",
+            "TXT",
+            "XML"
+          ],
+          "deepLearningModels": [
+            "AUTOENC",
+            "CNN",
+            "LSTM",
+            "OTHR",
+            "RNN"
+          ],
+          "electrocardiogramModels": [
+            "OTHR",
+            "SCP"
+          ],
+          "electronicHealthRecordExportFormats": [
+            "CCDA",
+            "CCDA",
+            "CDA",
+            "CDASH",
+            "CSV",
+            "DICOM",
+            "EDIF",
+            "FHIR",
+            "HL7V",
+            "JSON",
+            "ODM",
+            "OTHR",
+            "PDF",
+            "SDTM",
+            "XML"
+          ],
+          "epigenomicDataFileFormats": [
+            "BED",
+            "BEDG",
+            "IDAT",
+            "MKIT",
+            "OTHR",
+            "WIG"
+          ],
+          "epigenomicModels": [
+            "BLUPRT",
+            "IHEC",
+            "OTHR"
+          ],
+          "federatedLearningModels": [
+            "DIFPRV",
+            "FEDAVG",
+            "FEDSGD",
+            "FEDTL",
+            "MTFL",
+            "OTHR",
+            "PFL",
+            "SECAGG"
+          ],
+          "generalLinearModels": [
+            "COXPH",
+            "GAM",
+            "LINREG",
+            "LOGREG",
+            "MULREG",
+            "NBREG",
+            "OTHR",
+            "POISREG"
+          ],
+          "genomicAnnotationEffectPredictionTools": [
+            "ANNOVR",
+            "EXOMSR",
+            "JNOVAR",
+            "LIRICL",
+            "OTHR",
+            "SNPFF",
+            "VEP"
+          ],
+          "genomicDataAnalysisTools": [
+            "GAEP",
+            "GDVET",
+            "GVASGT",
+            "OTHR",
+            "SABT",
+            "SAHT"
+          ],
+          "genomicDataFileFormats": [
+            "BAM",
+            "BED",
+            "BGEN",
+            "CRAM",
+            "FASTA",
+            "FASTQ",
+            "GEN",
+            "GFF",
+            "GTF",
+            "OTHR",
+            "PEDM",
+            "PLINK",
+            "SAM",
+            "VCF",
+            "WIGB"
+          ],
+          "genomicDataVisualizationExplorationTools": [
+            "ENSEMBL",
+            "IGV",
+            "NCBI",
+            "OTHR",
+            "UCSC"
+          ],
+          "genomicVariantAnalysisStatisticalGeneticsTools": [
+            "FINEMAP",
+            "GATK",
+            "IMPUTE",
+            "LDSC",
+            "METAL",
+            "OTHR",
+            "PLINK",
+            "SNPTEST",
+            "SUSIE",
+            "TSMR"
+          ],
+          "genomicVariantAnnotationFormats": [
+            "ANN",
+            "BED",
+            "BIOFMT",
+            "GFF",
+            "GTF",
+            "GVF",
+            "HGVS",
+            "JSON",
+            "OTHR",
+            "VCF",
+            "VEP",
+            "XML"
+          ],
+          "healthEconomicsModels": [
+            "BIA",
+            "CBA",
+            "CEA",
+            "CUA",
+            "DAM",
+            "DES",
+            "MARKOV",
+            "MICRO",
+            "OTHR",
+            "PHARM"
+          ],
+          "imageFileFormats": [
+            "BMP",
+            "DICOM",
+            "JPEG",
+            "NIFTI",
+            "OTHR",
+            "PNG",
+            "RAW",
+            "SVG",
+            "TIFF"
+          ],
+          "imagingModels": [
+            "DICOM",
+            "OTHR"
+          ],
+          "laboratoryTestModels": [
+            "LAB",
+            "OTHR"
+          ],
+          "logFileFormats": [
+            "APLG",
+            "BINLF",
+            "CSV",
+            "ELF",
+            "JLOG",
+            "NGINX",
+            "OTHR",
+            "PTXT",
+            "SYSLOG",
+            "WEVNT",
+            "XLOG"
+          ],
+          "logisticRegression": [
+            "LOGR",
+            "MULNR",
+            "ORDLR",
+            "OTHR"
+          ],
+          "metabolomicDataFileFormats": [
+            "BRUKER",
+            "HDF5",
+            "JCAMP",
+            "MZDATA",
+            "MZML",
+            "MZXML",
+            "NETCDF",
+            "OTHR",
+            "RAW",
+            "XCMS"
+          ],
+          "multivariateRegressionAnalysis": [
+            "GEE",
+            "MLRM",
+            "OTHR"
+          ],
+          "naturalLanguageProcessingModels": [
+            "BERT",
+            "OTHR",
+            "TFIDF"
+          ],
+          "noSQLDatabases": [
+            "ARANGO",
+            "COUCHB",
+            "COUCHD",
+            "HBASE",
+            "ORIENT",
+            "OTHR",
+            "RIAK"
+          ],
+          "ontologies": [
+            "DUO",
+            "GO",
+            "HPO",
+            "OTHR"
+          ],
+          "ontologyFileFormats": [
+            "OBO",
+            "OTHR",
+            "OWL",
+            "RDF"
+          ],
+          "partner": [
+            "ERLH",
+            "GUF",
+            "KI",
+            "QMUL",
+            "UMCU",
+            "UVA",
+            "WSPAN"
+          ],
+          "patientRegistries": [
+            "OTHR",
+            "RSCUED"
+          ],
+          "pharmacogenomicAlgorithms": [
+            "ADMEP",
+            "CLOPG",
+            "CPICG",
+            "DPWGG",
+            "OTHR",
+            "PGXPP",
+            "PHGKB",
+            "PMSPF",
+            "SIMVG",
+            "WARFA"
+          ],
+          "physiologicalModels": [
+            "CIRC",
+            "COUR",
+            "GUYT",
+            "HODG",
+            "HUXL",
+            "KATZ",
+            "LORU",
+            "NOBL",
+            "OROU",
+            "OTHR",
+            "WIND"
+          ],
+          "populationHealthModels": [
+            "ACO",
+            "BRFSS",
+            "BZM",
+            "CCM",
+            "FHS",
+            "GBD",
+            "HADDON",
+            "KP",
+            "OTHR",
+            "REAIM",
+            "SEM"
+          ],
+          "precisionMedicineSoftwarePlatforms": [
+            "2BP",
+            "DNAX",
+            "FDON",
+            "FLTH",
+            "GNOP",
+            "IBMWH",
+            "OTHR",
+            "PIRX",
+            "SPHG",
+            "SYPS",
+            "TMP"
+          ],
+          "proteomicDataFileFormats": [
+            "MGF",
+            "MZID",
+            "MZML",
+            "MZXML",
+            "OTHR",
+            "PEFF",
+            "PRDX",
+            "PSIF",
+            "RAW"
+          ],
+          "resourceDescriptionFrameworkFormats": [
+            "JSONLD",
+            "NQUADS",
+            "NTRPLS"
+          ],
+          "riskStratificationTools": [
+            "ASCVD",
+            "BRS",
+            "FRS",
+            "OTHR",
+            "QRISK",
+            "SHFM",
+            "TIMI"
+          ],
+          "schemaFileFormats": [
+            "AVRO",
+            "ERD",
+            "HBMXML",
+            "JSONS",
+            "LINKML",
+            "OTHR",
+            "PARQT",
+            "PROTO",
+            "SQLDDL",
+            "XSD",
+            "YAML"
+          ],
+          "scriptCodeFileFormats": [
+            "BASH",
+            "CCPP",
+            "IPYNB",
+            "JAVA",
+            "JSON",
+            "MATLAB",
+            "OTHR",
+            "PERL",
+            "PY",
+            "R",
+            "SQL",
+            "WEB",
+            "XML"
+          ],
+          "sequenceAlignmentHandlingTools": [
+            "BEDTL",
+            "BLAST",
+            "BOWTIE",
+            "BWA",
+            "OTHR",
+            "SAMTL"
+          ],
+          "statisticalAnalysisBioinformaticsTools": [
+            "BIOCON",
+            "OTHR",
+            "R"
+          ],
+          "statisticalAnalysisModels": [
+            "ANOVA",
+            "CHISQ",
+            "FANAL",
+            "GLM",
+            "KMSA",
+            "MWUT",
+            "OTHR",
+            "TTEST",
+            "WSRT"
+          ],
+          "structuredDataFileFormats": [
+            "AVRO",
+            "CSV",
+            "EXCEL",
+            "HDF5",
+            "JSON",
+            "OTHR",
+            "PARQT",
+            "PROTO",
+            "SQLDB",
+            "XML",
+            "YAML"
+          ],
+          "studies": [
+            "CAMAS",
+            "HECES2",
+            "OTHR"
+          ],
+          "supervisedLearningModels": [
+            "GBM",
+            "LOGREG",
+            "OTHR",
+            "RNDFOR",
+            "SVM"
+          ],
+          "timeSeriesAnalysisModels": [
+            "ARIMA",
+            "OTHR"
+          ],
+          "transcriptomicDataFileFormats": [
+            "CEL",
+            "EXPR",
+            "FPKM",
+            "GEO",
+            "OTHR",
+            "RNSQ"
+          ],
+          "transcriptomicModels": [
+            "MIAME",
+            "MINSEQE",
+            "OTHR"
+          ],
+          "unsupervisedLearningModels": [
+            "KMEANS",
+            "OTHR",
+            "PCA"
+          ],
+          "useCase": [
+            "ADR",
+            "ATH",
+            "CCD",
+            "HF",
+            "HRCM",
+            "MI",
+            "SCD"
+          ],
+          "vocabularies": [
+            "MESH",
+            "NCI",
+            "OTHR",
+            "RADLEX"
+          ],
+          "webOntologyLanguageFormats": [
+            "FUNSYN",
+            "MANSYN",
+            "OWLXML",
+            "RDFXML",
+            "TURTLE"
+          ],
+          "wholeGenomeExomeSeqModels": [
+            "GA4GH",
+            "OTHR",
+            "PHENPK"
+          ]
+        }
+      },
+      "entry": [
+        {
+          "d": "ECd1C7ZlBswXMDb17vCxH0u77dR1bruatDBzKNLZ6mpm",
+          "language": "eng",
+          "type": "spec/overlays/entry/1.0",
+          "capture_base": "EDqWkB0FXc_TfuHcnVKUWzZm3NNFpEPt4wUVntmjDDWN",
+          "attribute_entries": {
+            "SQLDatabases": {
+              "FIRE": "Firebird",
+              "INFORM": "Informix",
+              "MARIA": "MariaDB",
+              "OTHR": "Other (please specify below)",
+              "SAPH": "SAP HANA",
+              "SYBA": "Sybase",
+              "TERA": "Teradata"
+            },
+            "accountableCareOrganizationModels": {
+              "ACOINV": "ACO Investment Model",
+              "DCM": "Direct Contracting Models",
+              "ESRD": "Comprehensive ESRD Care Model",
+              "MSSP": "Medicare Shared Savings Program (MSSP) ACOs",
+              "NEXTGEN": "Next Generation ACO Model",
+              "OCM": "Oncology Care Model (OCM)",
+              "OTHR": "Other (please specify below)",
+              "PATHWAY": "Pathways to Success",
+              "PIONEER": "Pioneer ACO Model",
+              "VTAP": "Vermont All-Payer ACO Model"
+            },
+            "biobanks": {
+              "AAAEX": "AAA-Express Biobank Study",
+              "ATHXP": "Athero-Express Biobank Study",
+              "BIKE": "Biobank of Karolinska Endarterectomy (BiKE)",
+              "ENCOD": "The Encyclopedia of DNA Elements (ENCODE)",
+              "GHPWS": "The Gene Health Project at WellSpan",
+              "GTEX": "GTEx Biobank – The Genotype-Tissue Expression Project",
+              "LLBB": "Lifelines Biobank",
+              "MUVB": "Munich Vascular Biobank",
+              "OTHR": "Other (please specify below)",
+              "PCGC": "The Pediatric Cardiac Genomics Consortium (PCGC)",
+              "UKBB": "UK Biobank"
+            },
+            "bioinformaticsAnalysisFileFormats": {
+              "ARFF": "ARFF (Attribute-Relation File Format)",
+              "CSV": "CSV (Comma-Separated Values)",
+              "FASTA": "FASTA",
+              "FASTQ": "FASTQ",
+              "GFF": "GFF (General Feature Format)",
+              "GTF": "GTF (Gene Transfer Format)",
+              "HDF5": "HDF5 (Hierarchical Data Format version 5)",
+              "NEXML": "NeXML",
+              "OTHR": "Other (please specify below)",
+              "PDB": "PDB (Protein Data Bank)",
+              "PHXML": "PhyloXML",
+              "SBML": "SBML (Systems Biology Markup Language)",
+              "TSV": "TSV (Tab-Separated Values)",
+              "VCF": "VCF (Variant Call Format)",
+              "WIGBW": "WIG/BigWig"
+            },
+            "causeEffectAnalysisTools": {
+              "CLD": "Causal Loop Diagrams",
+              "DECAM": "Decision Analysis Models",
+              "FISHB": "Fishbone Diagrams (Ishikawa Diagrams)",
+              "FMEA": "Failure Mode and Effects Analysis (FMEA)",
+              "MENDR": "Mendelian Randomization",
+              "OTHR": "Other (please specify below)",
+              "PATH": "Path Analysis",
+              "RCA": "Root Cause Analysis (RCA)",
+              "SEM": "Structural Equation Modeling (SEM)"
+            },
+            "clinicalDataFileFormats": {
+              "EDIF": "EDIFACT (Electronic Data Interchange For Administration, Commerce, and Transport)",
+              "HL7": "HL7 V2/V3",
+              "JSON": "JSON (JavaScript Object Notation)",
+              "OTHR": "Other (please specify below)",
+              "PDF": "PDF (Portable Document Format)",
+              "RDS": "R .rds",
+              "SPSS": "SPSS .sav",
+              "XML": "XML (eXtensible Markup Language)"
+            },
+            "clinicalDecisionFlowcharts": {
+              "ACCAHA": "ACC/AHA Guidelines-Based Decision Trees",
+              "CCS": "Canadian Cardiovascular Society (CCS) Algorithms",
+              "ESC": "ESC Guidelines-Based Flowcharts",
+              "HFSA": "Heart Failure Society of America (HFSA) Treatment Algorithms",
+              "NICE": "NICE Guidelines Decision Algorithms",
+              "OTHR": "Other (please specify below)",
+              "SCAI": "Society for Cardiovascular Angiography and Interventions (SCAI) Decision Tools"
+            },
+            "clinicalDecisionSupportAlgorithms": {
+              "ACCAHA": "ACC/AHA Risk Calculators",
+              "CHA2DS2": "CHA2DS2-VASc Score",
+              "EUROSC": "EuroSCORE",
+              "GRACE": "GRACE Score",
+              "HASBLD": "HAS-BLED Score",
+              "MELD": "MELD Score",
+              "OTHR": "Other (please specify below)",
+              "QTCCAL": "QTc Calculators",
+              "SYNTAX": "SYNTAX Score"
+            },
+            "clinicalModels": {
+              "ADAM": "CDISC ADaM",
+              "BRIDG": "BRIDG Model",
+              "CDASH": "CDISC CDASH",
+              "FHIR": "HL7 FHIR",
+              "FHIRG": "FHIR Genomics",
+              "MIMIC": "MIMIC",
+              "ODM": "CDISC ODM",
+              "OMOP": "OMOP",
+              "OTHR": "Other (please specify below)",
+              "PCOR": "PCORnet",
+              "PRM": "CDISC PRM",
+              "SDTM": "CDISC SDTM",
+              "SEND": "CDISC SEND"
+            },
+            "clinicalPathwayModels": {
+              "ACCAHA": "ACC/AHA Guideline-Based Pathways",
+              "CCS": "Canadian Cardiovascular Society (CCS) Guidelines",
+              "ESC": "ESC Clinical Practice Guidelines",
+              "GWTG": "Get With The Guidelines (GWTG) Pathways",
+              "HFSA": "Heart Failure Society of America (HFSA) Guidelines",
+              "NICE": "NICE Clinical Pathways",
+              "OTHR": "Other (please specify below)"
+            },
+            "cloudStorageBigDataFormats": {
+              "AVRO": "Avro",
+              "BLOB": "Binary Large OBject (BLOB)",
+              "CSV": "CSV (Comma-Separated Values)",
+              "FTHR": "Feather",
+              "GBQ": "Google BigQuery formats",
+              "HDF5": "HDF5 (Hierarchical Data Format version 5)",
+              "JSON": "JSON (JavaScript Object Notation)",
+              "KAFKA": "Apache Kafka Formats",
+              "ORC": "ORC (Optimized Row Columnar)",
+              "OTHR": "Other (please specify below)",
+              "PARQT": "Parquet",
+              "SEQF": "SequenceFile",
+              "TFREC": "TFRecord",
+              "XML": "XML (eXtensible Markup Language)"
+            },
+            "controlledTerminologies": {
+              "CDISC": "CDISC Controlled Terminology",
+              "CPT": "CPT (Current Procedural Terminology)",
+              "ICD10": "ICD-10",
+              "LOINC": "LOINC",
+              "OTHR": "Other (please specify below)",
+              "RXNORM": "RxNorm",
+              "SNOMED": "SNOMED CT"
+            },
+            "dataCataloguingModels": {
+              "DCAT": "DCAT",
+              "DCATAP": "DCAT-AP",
+              "OTHR": "Other (please specify below)"
+            },
+            "dataVisualizationFileFormats": {
+              "AI": "Adobe Illustrator Files (.ai)",
+              "BITOOL": "BI Tools Formats (e.g., QlikView .qvw, Power BI .pbix)",
+              "D3JS": "D3.js JSON/XML Configurations",
+              "EXCEL": "Microsoft Excel Formats (.xlsx, .xls)",
+              "GIS": "GIS File Formats (e.g., Shapefiles, .kml for Google Earth)",
+              "IPYNB": "Jupyter Notebook Files (.ipynb)",
+              "JPEG": "JPEG",
+              "OTHR": "Other (please specify below)",
+              "PDF": "PDF (Portable Document Format)",
+              "PLOTLY": "Plotly Files",
+              "PNG": "PNG",
+              "RMD": "R Markdown Files (.Rmd)",
+              "SVG": "SVG (Scalable Vector Graphics)",
+              "TABWB": "Tableau Workbook Files (.twb, .twbx)",
+              "TIFF": "TIFF"
+            },
+            "databaseSolutions": {
+              "AMZDDB": "Amazon DynamoDB",
+              "AMZRDS": "Amazon RDS (Relational Database Service)",
+              "AZCDB": "Azure Cosmos DB",
+              "AZSQL": "Azure SQL Database",
+              "CASS": "Apache Cassandra",
+              "DB2": "IBM Db2",
+              "ES": "Elasticsearch",
+              "GBQ": "Google BigQuery",
+              "GCSQL": "Google Cloud SQL",
+              "MONGO": "MongoDB",
+              "MSSQL": "Microsoft SQL Server",
+              "MYSQL": "MySQL",
+              "NEO4J": "Neo4j",
+              "NOSQL": "NoSQL Databases",
+              "ORCL": "Oracle Database",
+              "OTHR": "Other (please specify below)",
+              "PGSQL": "PostgreSQL",
+              "REDIS": "Redis",
+              "SQLDB": "SQL/Relational Databases",
+              "SQLITE": "SQLite"
+            },
+            "datasetFileFormats": {
+              "CSV": "CSV (Comma-Separated Values)",
+              "EXCL": "Excel Formats (.xlsx, .xls)",
+              "JSON": "JSON (JavaScript Object Notation)",
+              "OTHR": "Other (please specify below)",
+              "SASDS": "SAS Data Sets (.sas7bdat)",
+              "SPSS": "SPSS Files (.sav)",
+              "TXT": "Plain Text Files (.txt)",
+              "XML": "XML (eXtensible Markup Language)"
+            },
+            "deepLearningModels": {
+              "AUTOENC": "Autoencoders",
+              "CNN": "Convolutional Neural Networks (CNNs)",
+              "LSTM": "Long Short-Term Memory Networks (LSTMs)",
+              "OTHR": "Other (please specify below)",
+              "RNN": "Recurrent Neural Networks (RNNs)"
+            },
+            "electrocardiogramModels": {
+              "OTHR": "Other (please specify below)",
+              "SCP": "SCP-ECG"
+            },
+            "electronicHealthRecordExportFormats": {
+              "CCDA": "C-CDA (Consolidated-Clinical Document Architecture)",
+              "CDA": "HL7 CDA (Clinical Document Architecture)",
+              "CDASH": "CDISC CDASH",
+              "CSV": "CSV (Comma-Separated Values)",
+              "DICOM": "DICOM (Digital Imaging and Communications in Medicine)",
+              "EDIF": "EDIFACT (Electronic Data Interchange For Administration, Commerce, and Transport)",
+              "FHIR": "FHIR (Fast Healthcare Interoperability Resources)",
+              "HL7V": "HL7 V2/V3",
+              "JSON": "JSON (JavaScript Object Notation)",
+              "ODM": "CDISC ODM",
+              "OTHR": "Other (please specify below)",
+              "PDF": "PDF (Portable Document Format)",
+              "SDTM": "CDISC SDTM",
+              "XML": "XML (eXtensible Markup Language)"
+            },
+            "epigenomicDataFileFormats": {
+              "BED": "BED (Browser Extensible Data)",
+              "BEDG": "BEDGraph",
+              "IDAT": "IDAT (Illumina BeadArray Data)",
+              "MKIT": "MethylKit Format",
+              "OTHR": "Other (please specify below)",
+              "WIG": "WIG/BigWig"
+            },
+            "epigenomicModels": {
+              "BLUPRT": "Blueprint",
+              "IHEC": "IHEC Data Standards",
+              "OTHR": "Other (please specify below)"
+            },
+            "federatedLearningModels": {
+              "DIFPRV": "Differential Privacy Models in Federated Learning",
+              "FEDAVG": "Federated Averaging (FedAvg) Algorithm",
+              "FEDSGD": "Federated Stochastic Gradient Descent (FedSGD)",
+              "FEDTL": "Federated Transfer Learning",
+              "MTFL": "Multi-Task Federated Learning Models",
+              "OTHR": "Other (please specify below)",
+              "PFL": "Personalized Federated Learning Models",
+              "SECAGG": "Secure Aggregation Models"
+            },
+            "generalLinearModels": {
+              "COXPH": "Cox Proportional Hazards Model",
+              "GAM": "Generalized Additive Models (GAMs)",
+              "LINREG": "Linear Regression Model",
+              "LOGREG": "Logistic Regression",
+              "MULREG": "Multivariate Regression Analysis",
+              "NBREG": "Negative Binomial Regression Model",
+              "OTHR": "Other (please specify below)",
+              "POISREG": "Poisson Regression Model"
+            },
+            "genomicAnnotationEffectPredictionTools": {
+              "ANNOVR": "ANNOVAR",
+              "EXOMSR": "Exomiser",
+              "JNOVAR": "Jannovar",
+              "LIRICL": "LIRICAL",
+              "OTHR": "Other (please specify below)",
+              "SNPFF": "SnpEff",
+              "VEP": "VEP (Variant Effect Predictor)"
+            },
+            "genomicDataAnalysisTools": {
+              "GAEP": "Genomic Annotation and Effect Prediction Tools",
+              "GDVET": "Genomic Data Visualization and Exploration Tools",
+              "GVASGT": "Genomic Variant Analysis and Statistical Genetics Tools",
+              "OTHR": "Other (please specify below)",
+              "SABT": "Statistical Analysis and Bioinformatics Tools",
+              "SAHT": "Sequence Alignment and Handling Tools"
+            },
+            "genomicDataFileFormats": {
+              "BAM": "BAM (Binary Alignment/Map)",
+              "BED": "BED (Browser Extensible Data)",
+              "BGEN": "BGEN",
+              "CRAM": "CRAM",
+              "FASTA": "FASTA",
+              "FASTQ": "FASTQ",
+              "GEN": "GEN",
+              "GFF": "GFF (General Feature Format)",
+              "GTF": "GTF (Gene Transfer Format)",
+              "OTHR": "Other (please specify below)",
+              "PEDM": "PED/MAP (Pedigree/Data Map Files)",
+              "PLINK": "PLINK Binary Files (BED, BIM, FAM)",
+              "SAM": "SAM (Sequence Alignment/Map)",
+              "VCF": "VCF (Variant Call Format)",
+              "WIGB": "WIG/BigWig (Wiggle Format)"
+            },
+            "genomicDataVisualizationExplorationTools": {
+              "ENSEMBL": "Ensembl Browser",
+              "IGV": "IGV (Integrative Genomics Viewer)",
+              "NCBI": "NCBI Browsers",
+              "OTHR": "Other (please specify below)",
+              "UCSC": "UCSC Genome Browser"
+            },
+            "genomicVariantAnalysisStatisticalGeneticsTools": {
+              "FINEMAP": "FINEMAP",
+              "GATK": "GATK (Genome Analysis Toolkit)",
+              "IMPUTE": "IMPUTE",
+              "LDSC": "LDSC (LD Score Regression) + HDL",
+              "METAL": "METAL",
+              "OTHR": "Other (please specify below)",
+              "PLINK": "PLINK/PLINK 2.0",
+              "SNPTEST": "SNPTEST",
+              "SUSIE": "SUSIE (Sum of Single Effects)",
+              "TSMR": "TwoSampleMR"
+            },
+            "genomicVariantAnnotationFormats": {
+              "ANN": "ANN (ANNOVAR Format)",
+              "BED": "BED (Browser Extensible Data)",
+              "BIOFMT": "Bioinformatics Tools Specific Formats",
+              "GFF": "GFF3 (General Feature Format)",
+              "GTF": "GTF (Gene Transfer Format)",
+              "GVF": "GVF (Genome Variation Format)",
+              "HGVS": "HGVS (Human Genome Variation Society) Nomenclature",
+              "JSON": "JSON (JavaScript Object Notation)",
+              "OTHR": "Other (please specify below)",
+              "VCF": "VCF (Variant Call Format)",
+              "VEP": "VEP (Variant Effect Predictor) Output",
+              "XML": "XML (eXtensible Markup Language)"
+            },
+            "healthEconomicsModels": {
+              "BIA": "Budget Impact Analysis (BIA)",
+              "CBA": "Cost-Benefit Analysis (CBA)",
+              "CEA": "Cost-Effectiveness Analysis (CEA)",
+              "CUA": "Cost-Utility Analysis (CUA)",
+              "DAM": "Decision Analytic Modeling (DAM)",
+              "DES": "Discrete Event Simulation (DES)",
+              "MARKOV": "Markov Models",
+              "MICRO": "Microsimulation Models",
+              "OTHR": "Other (please specify below)",
+              "PHARM": "Pharmacoeconomic Models"
+            },
+            "imageFileFormats": {
+              "BMP": "BMP",
+              "DICOM": "DICOM (Digital Imaging and Communications in Medicine)",
+              "JPEG": "JPEG",
+              "NIFTI": "NIfTI (Neuroimaging Informatics Technology Initiative)",
+              "OTHR": "Other (please specify below)",
+              "PNG": "PNG",
+              "RAW": "RAW",
+              "SVG": "SVG (Scalable Vector Graphics)",
+              "TIFF": "TIFF"
+            },
+            "imagingModels": {
+              "DICOM": "DICOM",
+              "OTHR": "Other (please specify below)"
+            },
+            "laboratoryTestModels": {
+              "LAB": "CDISC LAB",
+              "OTHR": "Other (please specify below)"
+            },
+            "logFileFormats": {
+              "APLG": "Apache Log Files (.access, .error)",
+              "BINLF": "Binary Log Files",
+              "CSV": "CSV (Comma-Separated Values)",
+              "ELF": "ELF (Extended Log Format)",
+              "JLOG": "JSON Log Files (.json)",
+              "NGINX": "NGINX Log Files",
+              "OTHR": "Other (please specify below)",
+              "PTXT": "Plain Text Log Files (.log, .txt)",
+              "SYSLOG": "Syslog Files",
+              "WEVNT": "Windows Event Log Files (.evtx)",
+              "XLOG": "XML Log Files (.xml)"
+            },
+            "logisticRegression": {
+              "LOGR": "Logistic Regression Model",
+              "MULNR": "Multinomial Logistic Regression Model",
+              "ORDLR": "Ordinal Logistic Regression Model",
+              "OTHR": "Other (please specify below)"
+            },
+            "metabolomicDataFileFormats": {
+              "BRUKER": "Bruker Data Format",
+              "HDF5": "HDF5 (Hierarchical Data Format version 5)",
+              "JCAMP": "JDX (JCAMP-DX)",
+              "MZDATA": "MzData",
+              "MZML": "mzML (Mass Spectrometry Markup Language)",
+              "MZXML": "mzXML",
+              "NETCDF": "NETCDF (Network Common Data Form)",
+              "OTHR": "Other (please specify below)",
+              "RAW": "RAW",
+              "XCMS": "XCMS/CDF Files"
+            },
+            "multivariateRegressionAnalysis": {
+              "GEE": "Generalized Estimating Equations",
+              "MLRM": "Multiple Linear Regression Model",
+              "OTHR": "Other (please specify below)"
+            },
+            "naturalLanguageProcessingModels": {
+              "BERT": "BERT",
+              "OTHR": "Other (please specify below)",
+              "TFIDF": "TF-IDF"
+            },
+            "noSQLDatabases": {
+              "ARANGO": "ArangoDB",
+              "COUCHB": "Couchbase",
+              "COUCHD": "CouchDB",
+              "HBASE": "Apache HBase",
+              "ORIENT": "OrientDB",
+              "OTHR": "Other (please specify below)",
+              "RIAK": "Riak"
+            },
+            "ontologies": {
+              "DUO": "Data Use Ontology (DUO)",
+              "GO": "Gene Ontology (GO)",
+              "HPO": "Human Phenotype Ontology (HPO)",
+              "OTHR": "Other (please specify below)"
+            },
+            "ontologyFileFormats": {
+              "OBO": "OBO (Open Biomedical Ontologies) Format",
+              "OTHR": "Other (please specify below)",
+              "OWL": "OWL (Web Ontology Language) Formats",
+              "RDF": "RDF (Resource Description Framework) Formats"
+            },
+            "partner": {
+              "ERLH": "EARLHAM INSTITUTE",
+              "GUF": "JOHANN WOLFGANG GOETHE-UNIVERSITAET FRANKFURT AM MAIN",
+              "KI": "KAROLINSKA INSTITUTET",
+              "QMUL": "QUEEN MARY UNIVERSITY OF LONDON",
+              "UMCU": "UNIVERSITAIR MEDISCH CENTRUM UTRECHT",
+              "UVA": "UNIVERSITY OF VIRGINIA",
+              "WSPAN": "WELLSPAN HEALTH"
+            },
+            "patientRegistries": {
+              "OTHR": "Other (please specify below)",
+              "RSCUED": "REgistry for Sudden Cardiac and UnExpected Death"
+            },
+            "pharmacogenomicAlgorithms": {
+              "ADMEP": "ADME Genotyping Panels",
+              "CLOPG": "Clopidogrel Responsiveness Testing (CYP2C19 Genotyping)",
+              "CPICG": "CPIC (Clinical Pharmacogenetics Implementation Consortium) Guidelines",
+              "DPWGG": "DPWG (Dutch Pharmacogenetics Working Group) Guidelines",
+              "OTHR": "Other (please specify below)",
+              "PGXPP": "PGxPOP",
+              "PHGKB": "PharmGKB",
+              "PMSPF": "Precision Medicine Software Platforms",
+              "SIMVG": "Simvastatin and SLCO1B1 Genotyping",
+              "WARFA": "Warfarin Dosing Algorithm"
+            },
+            "physiologicalModels": {
+              "CIRC": "CircAdapt Model",
+              "COUR": "Courtemanche-Ramirez-Nattel Model",
+              "GUYT": "Guyton Model of Circulation",
+              "HODG": "Hodgkin-Huxley Model",
+              "HUXL": "Huxley Muscle Model",
+              "KATZ": "Katz-Wachtel Phenomenon Model",
+              "LORU": "Luo-Rudy Dynamic Model",
+              "NOBL": "Noble Models",
+              "OROU": "O’Rourke-Hashimoto Model",
+              "OTHR": "Other (please specify below)",
+              "WIND": "Windkessel Model"
+            },
+            "populationHealthModels": {
+              "ACO": "Accountable Care Organization (ACO) Models",
+              "BRFSS": "BRFSS",
+              "BZM": "The Blue Zones Model",
+              "CCM": "Chronic Care Model (CCM)",
+              "FHS": "The Framingham Heart Study Model",
+              "GBD": "Global Burden of Disease (GBD) Model",
+              "HADDON": "Haddon Matrix",
+              "KP": "Kaiser Permanente’s Total Health Environment Model",
+              "OTHR": "Other (please specify below)",
+              "REAIM": "The RE-AIM Framework",
+              "SEM": "The Social Ecological Model (SEM)"
+            },
+            "precisionMedicineSoftwarePlatforms": {
+              "2BP": "2bPrecise",
+              "DNAX": "DNAnexus",
+              "FDON": "FoundationOne",
+              "FLTH": "Flatiron Health",
+              "GNOP": "GenomOncology Precision Oncology Platform",
+              "IBMWH": "IBM Watson Health",
+              "OTHR": "Other (please specify below)",
+              "PIRX": "PierianDx",
+              "SPHG": "Sophia Genetics",
+              "SYPS": "Syapse",
+              "TMP": "Tempus"
+            },
+            "proteomicDataFileFormats": {
+              "MGF": "MGF (Mascot Generic Format)",
+              "MZID": "MzIdentML",
+              "MZML": "MzML (Mass Spectrometry Markup Language)",
+              "MZXML": "MzXML",
+              "OTHR": "Other (please specify below)",
+              "PEFF": "PEFF (PSI Enhanced FASTA Format)",
+              "PRDX": "PRIDE XML",
+              "PSIF": "Proteomics Standards Initiative formats (PSI-MS, PSI-MOD, PSI-Par)",
+              "RAW": "RAW"
+            },
+            "resourceDescriptionFrameworkFormats": {
+              "JSONLD": "JSON-LD (JSON for Linked Data)",
+              "NQUADS": "N-Quads",
+              "NTRPLS": "N-Triples"
+            },
+            "riskStratificationTools": {
+              "ASCVD": "ASCVD Risk Calculator",
+              "BRS": "Bleeding Risk Scores in Anticoagulation",
+              "FRS": "Framingham Risk Score",
+              "OTHR": "Other (please specify below)",
+              "QRISK": "QRISK",
+              "SHFM": "Seattle Heart Failure Model",
+              "TIMI": "TIMI Risk Score"
+            },
+            "schemaFileFormats": {
+              "AVRO": "Avro Schema",
+              "ERD": "Entity-Relationship Diagrams (ERD files)",
+              "HBMXML": "Hibernate Mapping Files (.hbm.xml)",
+              "JSONS": "JSON Schema",
+              "LINKML": "LinkML (Linked Data Modeling Language)",
+              "OTHR": "Other (please specify below)",
+              "PARQT": "Parquet Schema",
+              "PROTO": "Protocol Buffers (.proto)",
+              "SQLDDL": "SQL Data Definition Language (DDL)",
+              "XSD": "XML Schema Definition (XSD)",
+              "YAML": "YAML Ain’t Markup Language (YAML)"
+            },
+            "scriptCodeFileFormats": {
+              "BASH": "Bash Scripts (.sh)",
+              "CCPP": "C/C++ Source Files (.c, .cpp)",
+              "IPYNB": "Jupyter Notebook Files (.ipynb)",
+              "JAVA": "Java Source Files (.java)",
+              "JSON": "JSON Files (.json)",
+              "MATLAB": "MATLAB Files (.m)",
+              "OTHR": "Other (please specify below)",
+              "PERL": "Perl Scripts (.pl)",
+              "PY": "Python Scripts (.py)",
+              "R": "R Scripts (.R)",
+              "SQL": "SQL Scripts (.sql)",
+              "WEB": "HTML/CSS/JavaScript Files (.html, .css, .js)",
+              "XML": "XML Files (.xml)"
+            },
+            "sequenceAlignmentHandlingTools": {
+              "BEDTL": "BEDTools",
+              "BLAST": "BLAST (Basic Local Alignment Search Tool)",
+              "BOWTIE": "Bowtie/Bowtie2",
+              "BWA": "BWA (Burrows-Wheeler Aligner)",
+              "OTHR": "Other (please specify below)",
+              "SAMTL": "SAMtools"
+            },
+            "statisticalAnalysisBioinformaticsTools": {
+              "BIOCON": "Bioconductor",
+              "OTHR": "Other (please specify below)",
+              "R": "R"
+            },
+            "statisticalAnalysisModels": {
+              "ANOVA": "ANOVA",
+              "CHISQ": "Chi-Square Tests",
+              "FANAL": "Factor Analysis",
+              "GLM": "General Linear Models (GLMs)",
+              "KMSA": "Kaplan-Meier Survival Analysis",
+              "MWUT": "Mann-Whitney U Test",
+              "OTHR": "Other (please specify below)",
+              "TTEST": "t-Tests (Independent and Paired)",
+              "WSRT": "Wilcoxon Signed-Rank Test"
+            },
+            "structuredDataFileFormats": {
+              "AVRO": "Avro",
+              "CSV": "CSV (Comma-Separated Values)",
+              "EXCEL": "Microsoft Excel Formats (.xlsx, .xls)",
+              "HDF5": "HDF5 (Hierarchical Data Format version 5)",
+              "JSON": "JSON (JavaScript Object Notation)",
+              "OTHR": "Other (please specify below)",
+              "PARQT": "Parquet",
+              "PROTO": "Protocol Buffers (.proto)",
+              "SQLDB": "SQL Database Files",
+              "XML": "XML (eXtensible Markup Language)",
+              "YAML": "YAML (YAML Ain't Markup Language)"
+            },
+            "studies": {
+              "CAMAS": "Coronary Artery Multiomics Analysis Study",
+              "HECES2": "Helsinki Carotid Endarterectomy Study 2 (HeCES2)",
+              "OTHR": "Other (please specify below)"
+            },
+            "supervisedLearningModels": {
+              "GBM": "Gradient Boosting Machines (GBMs)",
+              "LOGREG": "Logistic Regression",
+              "OTHR": "Other (please specify below)",
+              "RNDFOR": "Random Forests",
+              "SVM": "Support Vector Machines (SVMs)"
+            },
+            "timeSeriesAnalysisModels": {
+              "ARIMA": "ARIMA",
+              "OTHR": "Other (please specify below)"
+            },
+            "transcriptomicDataFileFormats": {
+              "CEL": "CEL Files (for microarray data)",
+              "EXPR": "Expression Matrix Files",
+              "FPKM": "FPKM/RPKM/TPM Data",
+              "GEO": "GEO Submission Files",
+              "OTHR": "Other (please specify below)",
+              "RNSQ": "RNA-Seq Count Data"
+            },
+            "transcriptomicModels": {
+              "MIAME": "MIAME",
+              "MINSEQE": "MINSEQE",
+              "OTHR": "Other (please specify below)"
+            },
+            "unsupervisedLearningModels": {
+              "KMEANS": "K-Means Clustering",
+              "OTHR": "Other (please specify below)",
+              "PCA": "Principal Component Analysis (PCA)"
+            },
+            "useCase": {
+              "ADR": "Adverse drug reaction",
+              "ATH": "Atherosclerosis",
+              "CCD": "Congenital cardiac disorder",
+              "HF": "Heart failure",
+              "HRCM": "High-risk cardiomyopathy",
+              "MI": "Myocardial infarction",
+              "SCD": "Sudden cardiac death"
+            },
+            "vocabularies": {
+              "MESH": "MeSH",
+              "NCI": "NCI Thesaurus",
+              "OTHR": "Other (please specify below)",
+              "RADLEX": "RADLEX"
+            },
+            "webOntologyLanguageFormats": {
+              "FUNSYN": "Functional Syntax",
+              "MANSYN": "Manchester Syntax",
+              "OWLXML": "OWL/XML",
+              "RDFXML": "RDF/XML",
+              "TURTLE": "Turtle (Terse RDF Triple Language)"
+            },
+            "wholeGenomeExomeSeqModels": {
+              "GA4GH": "GA4GH Models",
+              "OTHR": "Other (please specify below)",
+              "PHENPK": "Phenopacket"
+            }
+          }
+        }
+      ],
+      "cardinality": {
+        "d": "EFZIEMjYZE4lDiChi5swFoxamza4CfxdTZZWWimuGlJy",
+        "type": "spec/overlays/cardinality/1.0",
+        "capture_base": "EDqWkB0FXc_TfuHcnVKUWzZm3NNFpEPt4wUVntmjDDWN",
+        "attribute_cardinality": {
+          "SQLDatabases": "0-",
+          "_10": "0-1",
+          "_6_2": "0-1",
+          "_9": "0-1",
+          "accountableCareOrganizationModels": "0-",
+          "biobanks": "0-",
+          "bioinformaticsAnalysisFileFormats": "0-",
+          "causeEffectAnalysisTools": "0-",
+          "clinicalDataFileFormats": "0-",
+          "clinicalDecisionFlowcharts": "0-",
+          "clinicalDecisionSupportAlgorithms": "0-",
+          "clinicalModels": "0-",
+          "clinicalPathwayModels": "0-",
+          "cloudStorageBigDataFormats": "0-",
+          "contactName": "1",
+          "contactRole": "1",
+          "controlledTerminologies": "0-",
+          "dataCataloguingModels": "0-",
+          "dataVisualizationFileFormats": "0-",
+          "databaseSolutions": "0-",
+          "datasetFileFormats": "0-",
+          "deepLearningModels": "0-",
+          "electrocardiogramModels": "0-",
+          "electronicHealthRecordExportFormats": "0-",
+          "epigenomicDataFileFormats": "0-",
+          "epigenomicModels": "0-",
+          "federatedLearningModels": "0-",
+          "generalLinearModels": "0-",
+          "genomicAnnotationEffectPredictionTools": "0-",
+          "genomicDataAnalysisTools": "0-",
+          "genomicDataFileFormats": "0-",
+          "genomicDataVisualizationExplorationTools": "0-",
+          "genomicVariantAnalysisStatisticalGeneticsTools": "0-",
+          "genomicVariantAnnotationFormats": "0-",
+          "healthEconomicsModels": "0-",
+          "imageFileFormats": "0-",
+          "imagingModels": "0-",
+          "laboratoryTestModels": "0-",
+          "logFileFormats": "0-",
+          "logisticRegression": "0-",
+          "metabolomicDataFileFormats": "0-",
+          "multivariateRegressionAnalysis": "0-",
+          "naturalLanguageProcessingModels": "0-",
+          "noSQLDatabases": "0-",
+          "ontologies": "0-",
+          "ontologyFileFormats": "0-",
+          "otherAccountableCareOrganizationModels": "0-1",
+          "otherBiobanks": "0-1",
+          "otherBioinformaticsAnalysisFileFormats": "0-1",
+          "otherCauseEffectAnalysisTools": "0-1",
+          "otherClinicalDataFileFormats": "0-1",
+          "otherClinicalDecisionFlowcharts": "0-1",
+          "otherClinicalDecisionSupportAlgorithms": "0-1",
+          "otherClinicalModels": "0-1",
+          "otherClinicalPathwayModels": "0-1",
+          "otherCloudStorageBigDataFormats": "0-1",
+          "otherControlledTerminologies": "0-1",
+          "otherDataCataloguingModels": "0-1",
+          "otherDataFileFormats": "0-1",
+          "otherDataVisualizationFileFormats": "0-1",
+          "otherDatabaseSolutions": "0-1",
+          "otherDeepLearningModels": "0-1",
+          "otherElectrocardiogramModels": "0-1",
+          "otherElectronicHealthRecordExportFormats": "0-1",
+          "otherEpigenomicDataFileFormats": "0-1",
+          "otherEpigenomicModels": "0-1",
+          "otherFederatedLearningModels": "0-1",
+          "otherGeneralLinearModels": "0-1",
+          "otherGenomicAnnotationEffectPredictionTools": "0-1",
+          "otherGenomicDataAnalysisTools": "0-1",
+          "otherGenomicDataFileFormats": "0-1",
+          "otherGenomicDataVisualizationExplorationTools": "0-1",
+          "otherGenomicVariantAnalysisStatisticalGeneticsTools": "0-1",
+          "otherGenomicVariantAnnotationFormats": "0-1",
+          "otherHealthEconomicsModels": "0-1",
+          "otherImageFileFormats": "0-1",
+          "otherImagingModels": "0-1",
+          "otherLaboratoryTestModels": "0-1",
+          "otherLogFileFormats": "0-1",
+          "otherLogisticRegression": "0-1",
+          "otherMetabolomicDataFileFormats": "0-1",
+          "otherMultivariateRegressionAnalysis": "0-1",
+          "otherNaturalLanguageProcessingModels": "0-1",
+          "otherNoSQLDatabases": "0-1",
+          "otherOntologies": "0-1",
+          "otherOntologyFileFormats": "0-1",
+          "otherPatientRegistries": "0-1",
+          "otherPharmacogenomicAlgorithms": "0-1",
+          "otherPhysiologicalModels": "0-1",
+          "otherPopulationHealthModels": "0-1",
+          "otherPrecisionMedicineSoftwarePlatforms": "0-1",
+          "otherProteomicDataFileFormats": "0-1",
+          "otherRiskStratificationTools": "0-1",
+          "otherSQLDatabases": "0-1",
+          "otherSchemaFileFormats": "0-1",
+          "otherScriptCodeFileFormats": "0-1",
+          "otherSequenceAlignmentHandlingTools": "0-1",
+          "otherStatisticalAnalysisBioinformaticsTools": "0-1",
+          "otherStatisticalAnalysisModels": "0-1",
+          "otherStructuredDataFileFormats": "0-1",
+          "otherStudies": "0-1",
+          "otherSupervisedLearningModels": "0-1",
+          "otherTimeSeriesAnalysisModels": "0-1",
+          "otherTranscriptomicDataFileFormats": "0-1",
+          "otherTranscriptomicModels": "0-1",
+          "otherUnsupervisedLearningModels": "0-1",
+          "otherVocabularies": "0-1",
+          "otherWholeGenomeExomeSeqModels": "0-1",
+          "partner": "1",
+          "patientRegistries": "0-",
+          "pharmacogenomicAlgorithms": "0-",
+          "physiologicalModels": "0-",
+          "populationHealthModels": "0-",
+          "precisionMedicineSoftwarePlatforms": "0-",
+          "proteomicDataFileFormats": "0-",
+          "resourceDescriptionFrameworkFormats": "0-",
+          "riskStratificationTools": "0-",
+          "schemaFileFormats": "0-",
+          "scriptCodeFileFormats": "0-",
+          "sequenceAlignmentHandlingTools": "0-",
+          "statisticalAnalysisBioinformaticsTools": "0-",
+          "statisticalAnalysisModels": "0-",
+          "structuredDataFileFormats": "0-",
+          "studies": "0-",
+          "supervisedLearningModels": "0-",
+          "timeSeriesAnalysisModels": "0-",
+          "transcriptomicDataFileFormats": "0-",
+          "transcriptomicModels": "0-",
+          "unsupervisedLearningModels": "0-",
+          "useCase": "1",
+          "vocabularies": "0-",
+          "webOntologyLanguageFormats": "0-",
+          "wholeGenomeExomeSeqModels": "0-"
+        }
+      }
+    }
+  },
+  "dependencies": []
+}
