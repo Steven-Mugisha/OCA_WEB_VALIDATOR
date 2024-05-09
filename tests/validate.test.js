@@ -12,7 +12,7 @@ describe('OCABundle', () => {
         // Testing csv data entry file.
         const dataset = await OCADataSet.readCSV(path.join(__dirname, 'datasets', 'dateTest.csv'));
         const validate = bundle.validate(dataset);
-        console.log(validate.errCollection[0]);
+        console.log(validate.formatErr.errs);
 
         /**
          *   OCADataSetErr {
